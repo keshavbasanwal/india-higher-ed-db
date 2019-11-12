@@ -1,0 +1,709 @@
+"","code","name","type","ug.etc.total","pg.etc.total","total.students","full.time.total","part.time.total","total.staff","total.by.total","ug.by.fulltime"
+"1",15,"Jawaharlal Nehru Technological University, Kakinada","State Public University ",0,300,300,12,33,45,6.66666666666667,0
+"2",17,"Jawaharlal Nehru Technological University, Hyderabad","State Public University ",1682,0,1682,19,16,35,48.0571428571429,88.5263157894737
+"3",18,"Jawarharlal Nehru Architecture and Fine Art University Hyderabad","State Public University ",272,258,530,15,12,27,19.6296296296296,18.1333333333333
+"4",19,"Kakatiya University, Warangal","State Public University ",1018,0,1018,19,14,33,30.8484848484848,53.5789473684211
+"5",20,"Koneru Lakshmaiah Education Foundation,Guntur","Deemed University-Private ",1878,0,1878,56,64,120,15.65,33.5357142857143
+"6",21,"Krishna University, Machhlipattanam","State Public University ",626,0,626,25,0,25,25.04,25.04
+"7",22,"Mahatma Gandhi University, Nalgonda","State Public University ",61,5,66,5,1,6,11,12.2
+"8",23,"Maulana Azad National Urdu University, Hyderabad","Central University ",1516,0,1516,39,40,79,19.1898734177215,38.8717948717949
+"9",24,"National Academy of Legal Studies & Research (NALSR) University Hyderabad","State Public University ",507,0,507,27,0,27,18.7777777777778,18.7777777777778
+"10",27,"Osmania University, Hyderabad","State Public University ",804,0,804,40,4,44,18.2727272727273,20.1
+"12",29,"Potti Sri Ramulu Telugu University, Hyderabad","State Public University ",1744,0,1744,46,35,81,21.5308641975309,37.9130434782609
+"13",31,"Rayalaseema, University Kurnool","State Public University ",1364,0,1364,67,0,67,20.3582089552239,20.3582089552239
+"14",32,"Satavahana University, Karimnagar","State Public University ",535,0,535,36,0,36,14.8611111111111,14.8611111111111
+"15",33,"Sri Krishnadevaraya University, Anantapur","State Public University ",1153,0,1153,71,0,71,16.2394366197183,16.2394366197183
+"16",35,"Sri Satya Sai Institute of Higher Learning, Anantpur","Deemed University-Private ",2388,0,2388,40,27,67,35.6417910447761,59.7
+"17",35,"Sri Satya Sai Institute of Higher Learning, Anantpur","Deemed University-Private ",0,347,347,31,0,31,11.1935483870968,0
+"18",36,"Sri Venkateswara Institute of Medical Sciences, Tirupathi","Institute under State Legislature Act ",106,0,106,22,1,23,4.60869565217391,4.81818181818182
+"19",36,"Sri Venkateswara Institute of Medical Sciences, Tirupathi","Institute under State Legislature Act ",138,0,138,18,0,18,7.66666666666667,7.66666666666667
+"20",37,"Sri Venkateswara University, Tirupathy","State Public University ",101,5,106,5,13,18,5.88888888888889,20.2
+"21",38,"Sri Venkateswara Vedic University, Tirpupathi","State Public University ",172,0,172,16,0,16,10.75,10.75
+"22",39,"Sri Venkateswara Veterinary University, Tirupathi","State Public University ",169,12,181,23,0,23,7.8695652173913,7.34782608695652
+"23",40,"Telangana University, Nizamabad","State Public University ",96,0,96,16,0,16,6,6
+"24",40,"Telangana University, Nizamabad","State Public University ",94,21,115,14,0,14,8.21428571428571,6.71428571428571
+"25",41,"The English and Foreign Languages University, Hyderabad","Central University ",330,0,330,59,0,59,5.59322033898305,5.59322033898305
+"26",42,"University of Hyderabad, Hyderabad","Central University ",0,205,205,12,0,12,17.0833333333333,0
+"27",43,"Vignan's Foundation of Science, Technology & Research, Guntur","Deemed University-Private ",0,200,200,9,0,9,22.2222222222222,0
+"28",44,"Vikram Simhapuri University, Nellore","State Public University ",3128,113,3241,93,0,93,34.8494623655914,33.6344086021505
+"29",45,"Yogi Vemana University, Kadapa","State Public University ",0,420,420,16,0,16,26.25,0
+"30",46,"North Eastern Regional Institute of Science & Technology, Papum Pare, Itanagar","Deemed University-Government ",0,150,150,7,0,7,21.4285714285714,0
+"31",47,"Rajiv Gandhi University, Itanagar","Central University ",124,0,124,16,0,16,7.75,7.75
+"32",47,"Rajiv Gandhi University, Itanagar","Central University ",1501,0,1501,171,0,171,8.77777777777778,8.77777777777778
+"33",48,"Assam Agricultural University, Jorhat","State Public University ",1967,86,2053,124,0,124,16.5564516129032,15.8629032258065
+"34",49,"Assam Don Bosco University, Guwahati","State Private University ",2718,0,2718,78,0,78,34.8461538461538,34.8461538461538
+"35",50,"Assam University, Silchar","Central University ",8,0,8,7,0,7,1.14285714285714,1.14285714285714
+"36",50,"Assam University, Silchar","Central University ",2007,0,2007,52,39,91,22.0549450549451,38.5961538461538
+"37",51,"Dibrugarh University, Dibrugarh","State Public University ",1579,0,1579,26,41,67,23.5671641791045,60.7307692307692
+"38",51,"Dibrugarh University, Dibrugarh","State Public University ",0,68,68,7,0,7,9.71428571428571,0
+"39",52,"Gauhati University, Guwahati","State Public University ",147,0,147,9,0,9,16.3333333333333,16.3333333333333
+"40",53,"Indian Institute of Technology, Guwahati","Institute of National Importance ",179,44,223,18,0,18,12.3888888888889,9.94444444444444
+"41",54,"Krishna Kanta Hanidiqui State Open University, Guwahati","State Open University ",250,0,250,16,0,16,15.625,15.625
+"42",55,"National Institute of Technology, Silchar","Institute of National Importance ",510,33,543,39,0,39,13.9230769230769,13.0769230769231
+"43",56,"Tezpur University, Tezpur","Central University ",1966,0,1966,35,38,73,26.9315068493151,56.1714285714286
+"44",57,"Aryabhatta Knoweledge University , Patna","State Public University ",2554,175,2729,121,60,181,15.0773480662983,21.1074380165289
+"45",59,"Bhupendra Narayan Mandal University, Madhepura","State Public University ",528,0,528,29,0,29,18.2068965517241,18.2068965517241
+"46",60,"Bihar Agriculture University, Sabour","State Public University ",51,19,70,18,0,18,3.88888888888889,2.83333333333333
+"47",62,"Central University of South Bihar, Patna","Central University ",0,19,19,7,0,7,2.71428571428571,0
+"48",64,"Indian Institute of Technology, Patna","Institute of National Importance ",65,0,65,7,0,7,9.28571428571429,9.28571428571429
+"49",65,"Indira Gandhi Institute of Medical Sciences, Patna","Institute under State Legislature Act ",53,14,67,19,0,19,3.52631578947368,2.78947368421053
+"50",66,"Jai Prakash Vishwavidyalaya, Chapra","State Public University ",87,73,160,22,0,22,7.27272727272727,3.95454545454545
+"51",67,"Kameshwar Singh Darbhanga Sanskrit Vishwavidyalaya, Darbhanga","State Public University ",0,5,5,4,0,4,1.25,0
+"52",68,"Lalit Narayan Mithila University, Darbhanga","State Public University ",0,10,10,5,0,5,2,0
+"53",69,"Magadh University, Bodh Gaya","State Public University ",0,98,98,6,0,6,16.3333333333333,0
+"54",70,"Maulana Mazharul Haque Arabic & Persian University, Patna","State Public University ",157,0,157,16,0,16,9.8125,9.8125
+"55",70,"Maulana Mazharul Haque Arabic & Persian University, Patna","State Public University ",0,0,0,5,0,5,0,0
+"56",71,"Nalanda Open University, Patna","State Open University ",206,0,206,48,0,48,4.29166666666667,4.29166666666667
+"57",73,"Nava Nalanda Mahavihara, Nalanda","Deemed University-Government ",2236,71,2307,169,0,169,13.6508875739645,13.2307692307692
+"58",74,"Patna University, Patna","State Public University ",358,0,358,24,0,24,14.9166666666667,14.9166666666667
+"59",74,"Patna University, Patna","State Public University ",0,234,234,10,0,10,23.4,0
+"60",75,"Rajendra Agricultural University, Samastipur","State Public University ",3157,0,3157,115,22,137,23.043795620438,27.4521739130435
+"61",75,"Rajendra Agricultural University, Samastipur","State Public University ",476,178,654,36,0,36,18.1666666666667,13.2222222222222
+"62",77,"Veer Kunwar Singh University, Arrah","State Public University ",1345,0,1345,92,0,92,14.6195652173913,14.6195652173913
+"63",78,"Panjab University,Chandigarh","State Public University ",1412,0,1412,114,0,114,12.3859649122807,12.3859649122807
+"64",78,"Panjab University,Chandigarh","State Public University ",850,0,850,75,0,75,11.3333333333333,11.3333333333333
+"65",79,"Post Graduate Institute of Medical Sciences","Institute of National Importance ",0,39,39,8,0,8,4.875,0
+"66",80,"PEC University of Technology, Chandigarh","Deemed University-Government ",0,48,48,7,0,7,6.85714285714286,0
+"67",81,"Ayush and Health Science University of Chattisgarh, Raipur","State Public University ",4517,0,4517,138,0,138,32.731884057971,32.731884057971
+"68",82,"Bastar Vishwavidyalaya, Bastar","State Public University ",214,26,240,21,0,21,11.4285714285714,10.1904761904762
+"69",83,"Chhattisgarh Swami Vivekanand Technical University, Bhilai","State Public University ",1875,66,1941,70,2,72,26.9583333333333,26.7857142857143
+"70",84,"Dr. C. V. Raman University, Kota Bilaspur","State Private University ",0,51,51,9,0,9,5.66666666666667,0
+"71",85,"Guru Ghasidas Vishwavidyalaya, Bilaspur","Central University ",0,212,212,15,0,15,14.1333333333333,0
+"72",86,"Hidayatullah National Law University, Raipur","State Public University ",0,37,37,6,0,6,6.16666666666667,0
+"73",87,"Indira Gandhi Krishi Vishwavidyalaya, Raipur","State Public University ",0,8,8,9,0,9,0.888888888888889,0
+"74",87,"Indira Gandhi Krishi Vishwavidyalaya, Raipur","State Public University ",0,644,644,45,2,47,13.7021276595745,0
+"75",88,"Indira Kala Sangit Vishwavidyalaya, Khairagarh","State Public University ",655,4,659,34,0,34,19.3823529411765,19.2647058823529
+"76",88,"Indira Kala Sangit Vishwavidyalaya, Khairagarh","State Public University ",0,109,109,6,0,6,18.1666666666667,0
+"77",89,"Kushabhau Thakre Patrakarita Avam Jansanchar Vishwavidyalaya, Raipur","State Public University ",242,33,275,18,0,18,15.2777777777778,13.4444444444444
+"78",90,"Maharishi University of Management and Technology,  Bilaspur","State Private University ",0,70,70,5,0,5,14,0
+"79",91,"MATS University, Raipur","State Private University ",1676,162,1838,74,1,75,24.5066666666667,22.6486486486486
+"80",92,"National Institute of Technology, Raipur","Institute of National Importance ",227,37,264,23,0,23,11.4782608695652,9.8695652173913
+"81",92,"National Institute of Technology, Raipur","Institute of National Importance ",375,3,378,26,0,26,14.5384615384615,14.4230769230769
+"82",93,"Pt. Ravishankar Shukla University, Raipur","State Public University ",2386,93,2479,133,0,133,18.6390977443609,17.9398496240602
+"83",94,"Pt. Sundarlal Sharma (Open) University, Bilaspur","State Open University ",2223,179,2402,113,0,113,21.2566371681416,19.6725663716814
+"84",95,"Sarguja University, Ambikapur","State Public University ",3117,0,3117,84,0,84,37.1071428571429,37.1071428571429
+"85",97,"Bharat Ratana Dr. B. R. Ambedkar University","State Public University ",1721,0,1721,86,0,86,20.0116279069767,20.0116279069767
+"86",98,"Delhi Technological University","State Public University ",85,25,110,14,1,15,7.33333333333333,6.07142857142857
+"87",100,"Indian Institute of Technology, Delhi","Institute of National Importance ",0,47,47,6,0,6,7.83333333333333,0
+"88",100,"Indian Institute of Technology, Delhi","Institute of National Importance ",137,0,137,21,0,21,6.52380952380952,6.52380952380952
+"89",101,"Indian Agricultural Research Institute (KRISHI PUSHA) New Delhi.","Deemed University-Government ",0,74,74,12,0,12,6.16666666666667,0
+"90",102,"Indian Institute of Foreign Trade, Delhi","Deemed University-Government ",156,355,511,41,0,41,12.4634146341463,3.80487804878049
+"91",103,"Indian Law Institute, Bhagwandas Road, New Delhi","Deemed University-Government Aided ",81,0,81,7,0,7,11.5714285714286,11.5714285714286
+"92",104,"Indira Gandhi National Open University","Central Open University ",0,107,107,7,0,7,15.2857142857143,0
+"93",104,"Indira Gandhi National Open University","Central Open University ",0,25,25,3,5,8,3.125,0
+"94",106,"Institute of Liver and Bilary Sciences, New Delhi","Deemed University-Government ",394,0,394,26,0,26,15.1538461538462,15.1538461538462
+"95",108,"Jamia Millia Islamia University","Central University ",3681,49,3730,48,50,98,38.0612244897959,76.6875
+"96",110,"National Institute of Fashion Technology, Hauz Khas","Others",719,0,719,53,26,79,9.10126582278481,13.5660377358491
+"97",111,"National Law University, Delhi","State Public University ",37,51,88,3,5,8,11,12.3333333333333
+"98",112,"National Museum Institute of Hisotry of Art Conservation and Musicology","Deemed University-Government ",198,96,294,20,0,20,14.7,9.9
+"99",114,"National University of Education, Planning & Administration, New Delhi","Deemed University-Government ",0,15,15,4,0,4,3.75,0
+"100",115,"Rashtriya Sanskrit Sansthan, New Delhi","Deemed University-Government ",97,12,109,14,0,14,7.78571428571429,6.92857142857143
+"101",116,"School of Planning & Architecture, New Delhi","Deemed University-Government ",0,357,357,24,0,24,14.875,0
+"102",117,"Shri Lal Bhadur Shashtri Rashtriya Sanskrit Vidyapith, New Delhi","Deemed University-Government ",277,110,387,25,0,25,15.48,11.08
+"103",119,"TERI School of Advanced Studies, New Delhi","Deemed University-Private ",1102,0,1102,54,24,78,14.1282051282051,20.4074074074074
+"104",119,"TERI School of Advanced Studies, New Delhi","Deemed University-Private ",0,20,20,7,0,7,2.85714285714286,0
+"105",120,"University of Delhi","Central University ",0,238,238,14,0,14,17,0
+"106",121,"Goa University, Goa","State Public University ",231,0,231,16,0,16,14.4375,14.4375
+"107",124,"Maharaja Krishnakumarsinhji Bhavnagar University","State Public University ",3545,167,3712,241,0,241,15.402489626556,14.7095435684647
+"108",126,"Central Univeristy of Gujarat, Gandhinagar","Central University ",438,0,438,45,0,45,9.73333333333333,9.73333333333333
+"109",127,"Centre for Environmental Planning and Technology University, Ahmedabad","State Public University ",828,17,845,43,0,43,19.6511627906977,19.2558139534884
+"110",128,"Charotar University of Science & Technology,  Anand","State Private University ",30,0,30,12,0,12,2.5,2.5
+"111",130,"Dhirubhai Ambani Institute of Information & Communication Technology, Gandhi Nagar","State Private University ",2267,317,2584,195,0,195,13.2512820512821,11.625641025641
+"112",131,"Dr. Babasaheb Ambedkar Open University, Ahmedabad","State Open University ",624,0,624,43,0,43,14.5116279069767,14.5116279069767
+"113",131,"Dr. Babasaheb Ambedkar Open University, Ahmedabad","State Open University ",4982,460,5442,216,0,216,25.1944444444444,23.0648148148148
+"114",132,"Ganpat University, Ganpat Vidyanagar, Kherva","State Private University ",0,110,110,16,3,19,5.78947368421053,0
+"115",132,"Ganpat University, Ganpat Vidyanagar, Kherva","State Private University ",1212,0,1212,77,0,77,15.7402597402597,15.7402597402597
+"116",133,"Gujarat Ayurveda University, Jamnagar","State Public University ",0,0,0,2,0,2,0,0
+"117",134,"Gujarat National Law University, Gandhinagar","State Public University ",35,0,35,15,0,15,2.33333333333333,2.33333333333333
+"118",134,"Gujarat National Law University, Gandhinagar","State Public University ",3010,0,3010,184,0,184,16.3586956521739,16.3586956521739
+"119",135,"Gujarat Technological University, Ahmedbabd","State Public University ",1873,31,1904,35,21,56,34,53.5142857142857
+"120",136,"Gujarat University, Ahmedabad","State Public University ",695,0,695,29,0,29,23.9655172413793,23.9655172413793
+"121",137,"Gujarat Vidyapith, Ahmedabad","Deemed University-Government Aided ",62,0,62,21,0,21,2.95238095238095,2.95238095238095
+"122",139,"Indian Institute of Technology, Gandhinagar","Institute of National Importance ",90,0,90,15,10,25,3.6,6
+"123",140,"Junagadh Agricultural University","State Public University ",1093,0,1093,60,0,60,18.2166666666667,18.2166666666667
+"124",141,"Kadi Sarva Vishwavidyalaya, Gandihnagar","State Private University ",0,7,7,9,0,9,0.777777777777778,0
+"125",142,"Krantiguru Shyamji Krishna Verma Kachchh University, Kachchh","State Public University ",0,68,68,7,1,8,8.5,0
+"126",144,"Navrachana University","State Private University ",0,49,49,6,0,6,8.16666666666667,0
+"127",145,"Navsari Agricultural University","State Public University ",196,0,196,56,0,56,3.5,3.5
+"128",145,"Navsari Agricultural University","State Public University ",881,67,948,58,2,60,15.8,15.1896551724138
+"129",148,"Sardar Patel University, Vallabh Vidyanagar","State Public University ",0,67,67,13,0,13,5.15384615384615,0
+"130",150,"Sardarkrushinagar Dantiwada Agricultural University, Banaskantha","State Public University ",122,0,122,15,0,15,8.13333333333333,8.13333333333333
+"131",150,"Sardarkrushinagar Dantiwada Agricultural University, Banaskantha","State Public University ",56,3,59,11,0,11,5.36363636363636,5.09090909090909
+"133",152,"Shree Somnath Sanskrit University, Junagarh","State Public University ",0,66,66,7,0,7,9.42857142857143,0
+"134",152,"Shree Somnath Sanskrit University, Junagarh","State Public University ",0,56,56,1,0,1,56,0
+"135",153,"Veer Narmad South Gujarat University, Surat","State Public University ",278,0,278,33,0,33,8.42424242424242,8.42424242424242
+"136",153,"Veer Narmad South Gujarat University, Surat","State Public University ",106,14,120,23,0,23,5.21739130434783,4.60869565217391
+"137",154,"Sumandeep Vidyapeeth, Vadodara","Deemed University-Private ",3,4,7,7,0,7,1,0.428571428571429
+"138",155,"Amity University Haryana, Gurgaon","State Private University ",0,342,342,15,0,15,22.8,0
+"139",157,"Bhagat Phool Singh  Mahila University, Khanpur Kalan, Sonipat","State Public University ",342,0,342,26,0,26,13.1538461538462,13.1538461538462
+"140",157,"Bhagat Phool Singh  Mahila University, Khanpur Kalan, Sonipat","State Public University ",3022,0,3022,121,0,121,24.9752066115702,24.9752066115702
+"141",158,"Central University of Haryana, Mahendergarh","Central University ",225,0,225,13,1,14,16.0714285714286,17.3076923076923
+"142",161,"Deenbandhu Chhotu Ram University of Science & Technology, Murthal(Sonepat)","State Public University ",156,327,483,26,1,27,17.8888888888889,6
+"143",162,"Guru  Jambheshwar University of Science and Technology, Hissar","State Public University ",1267,0,1267,80,0,80,15.8375,15.8375
+"144",164,"Kurukshetra University, Kurukshetra","State Public University ",0,239,239,22,0,22,10.8636363636364,0
+"145",164,"Kurukshetra University, Kurukshetra","State Public University ",0,218,218,11,0,11,19.8181818181818,0
+"146",165,"Lala lajpat Rai University of Veterinary and Animal Sciences","State Public University ",29,0,29,8,0,8,3.625,3.625
+"147",165,"Lala lajpat Rai University of Veterinary and Animal Sciences","State Public University ",0,25,25,7,0,7,3.57142857142857,0
+"148",166,"Lingaya's University, Faridabad","Deemed University-Private ",0,231,231,40,10,50,4.62,0
+"149",166,"Lingaya's University, Faridabad","Deemed University-Private ",1030,0,1030,66,0,66,15.6060606060606,15.6060606060606
+"150",167,"Maharshi Dayanand University, Rohtak","State Public University ",0,387,387,43,0,43,9,0
+"151",168,"Maharishi Markandeshwar University, Mullana-Ambala","Deemed University-Private ",0,0,0,7,0,7,0,0
+"152",170,"National Brain Research Centre, Gurgaon","Deemed University-Government ",43,30,73,24,0,24,3.04166666666667,1.79166666666667
+"153",171,"National Dairy  Research Institute, Karnal","Deemed University-Government ",0,132,132,11,1,12,11,0
+"154",172,"National Institute of Technology, Kurukshetra","Institute of National Importance ",105,0,105,19,0,19,5.52631578947368,5.52631578947368
+"155",173,"O. P. Jindal Global University, Sonipat","State Private University ",0,323,323,23,0,23,14.0434782608696,0
+"156",175,"YMCA University of Science & Technology","State Public University ",2375,0,2375,120,0,120,19.7916666666667,19.7916666666667
+"157",176,"Arni University, Katgarh (Indora), Kangra","State Private University ",2448,70,2518,130,0,130,19.3692307692308,18.8307692307692
+"158",177,"Baddi University of Emerging Sciences and Technology, Budha (Makhnumajra), Solan","State Private University ",1039,0,1039,27,0,27,38.4814814814815,38.4814814814815
+"159",178,"Central University of Himachal Pradesh, Dharmshala, Kangra","Central University ",173,3,176,20,0,20,8.8,8.65
+"160",179,"Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya, Palampur","State Public University ",0,123,123,21,0,21,5.85714285714286,0
+"161",179,"Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya, Palampur","State Public University ",174,0,174,15,0,15,11.6,11.6
+"162",180,"Chitkara University, Kalu Jhanda (Barotiwala), Solan","State Private University ",224,20,244,56,0,56,4.35714285714286,4
+"163",181,"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan","State Public University ",1183,0,1183,81,0,81,14.6049382716049,14.6049382716049
+"164",182,"Eternal University, Baru Sahib Sirmour","State Private University ",0,0,0,7,0,7,0,0
+"165",182,"Eternal University, Baru Sahib Sirmour","State Private University ",2190,13,2203,69,0,69,31.9275362318841,31.7391304347826
+"166",183,"Himachal Pradesh University , Shimla","State Public University ",0,0,0,3,0,3,0,0
+"167",183,"Himachal Pradesh University , Shimla","State Public University ",1840,24,1864,144,1,145,12.8551724137931,12.7777777777778
+"168",184,"Indian Institute of Technology, Mandi","Institute of National Importance ",489,0,489,28,0,28,17.4642857142857,17.4642857142857
+"169",186,"Jaypee University of Information Technology, Waknaghat, Solan","State Private University ",0,93,93,23,0,23,4.04347826086957,0
+"171",187,"Maharashi Markandeshwar University, Solan","State Private University ",305,0,305,18,8,26,11.7307692307692,16.9444444444444
+"172",189,"National Institute of Technology, Hamirpur","Institute of National Importance ",0,52,52,15,0,15,3.46666666666667,0
+"173",189,"National Institute of Technology, Hamirpur","Institute of National Importance ",0,0,0,1,0,1,0,0
+"174",191,"Baba Ghulam Shah Badshah University,  Jammu","State Public University ",1367,0,1367,36,33,69,19.8115942028986,37.9722222222222
+"175",193,"Central University of Kashmir, Srinagar","Central University ",0,168,168,9,0,9,18.6666666666667,0
+"176",194,"Islamic University of Science & Technology, Pulwama","State Public University ",278,22,300,16,0,16,18.75,17.375
+"177",195,"University of Jammu, Jammu Tawi","State Public University ",230,37,267,17,0,17,15.7058823529412,13.5294117647059
+"178",195,"University of Jammu, Jammu Tawi","State Public University ",430,0,430,31,0,31,13.8709677419355,13.8709677419355
+"179",198,"Sher-e-Kashmir Institute of Medical Sciences, Srinagar","Institute under State Legislature Act ",227,23,250,24,0,24,10.4166666666667,9.45833333333333
+"180",200,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar","State Public University ",2055,0,2055,116,0,116,17.7155172413793,17.7155172413793
+"181",200,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar","State Public University ",0,478,478,21,19,40,11.95,0
+"182",203,"Birsa Agricultural University, Ranchi","State Public University ",864,0,864,80,0,80,10.8,10.8
+"183",205,"Indian School of Mines, Dhanbad","Deemed University-Government ",1157,0,1157,47,6,53,21.8301886792453,24.6170212765957
+"184",206,"Kolhan University,  West Singhbhum","State Public University ",2524,0,2524,79,31,110,22.9454545454545,31.9493670886076
+"185",207,"National Institute of Technology, Jamshedpur","Institute of National Importance ",0,485,485,33,7,40,12.125,0
+"186",207,"National Institute of Technology, Jamshedpur","Institute of National Importance ",2104,9,2113,126,0,126,16.7698412698413,16.6984126984127
+"187",208,"Nilamber-Pitamber University, Palamu","State Public University ",0,87,87,3,4,7,12.4285714285714,0
+"188",208,"Nilamber-Pitamber University, Palamu","State Public University ",0,153,153,19,21,40,3.825,0
+"189",210,"Sido Kanhu Murmu University, Dumka","State Public University ",629,0,629,49,0,49,12.8367346938776,12.8367346938776
+"190",211,"The Institute of Chartered Financial Ayalysts of India University, Ranchi","State Private University ",248,37,285,30,0,30,9.5,8.26666666666667
+"191",212,"Vinoba Bhave University, Hazaribagh","State Public University ",4623,719,5342,181,0,181,29.5138121546961,25.5414364640884
+"192",213,"Alliance University. Bangalore","State Private University ",1107,78,1185,77,0,77,15.3896103896104,14.3766233766234
+"193",214,"B.L.D.E. University,  Bijapur","Deemed University-Private ",0,345,345,22,0,22,15.6818181818182,0
+"194",214,"B.L.D.E. University,  Bijapur","Deemed University-Private ",48,68,116,9,0,9,12.8888888888889,5.33333333333333
+"195",215,"Bangalore University, Bangalore","State Public University ",301,0,301,10,0,10,30.1,30.1
+"196",216,"Central University of Karnataka, Gulbarga","Central University ",457,0,457,82,0,82,5.57317073170732,5.57317073170732
+"197",217,"Christ University, Bangalore","Deemed University-Private ",1623,0,1623,20,36,56,28.9821428571429,81.15
+"198",218,"Davangere University, Davangere","State Public University ",17,0,17,12,0,12,1.41666666666667,1.41666666666667
+"199",219,"Gulbarga University, Gulbarga","State Public University ",0,240,240,15,0,15,16,0
+"200",220,"Indian Institute of Science, Bangalore","Deemed University-Government ",0,1648,1648,83,34,117,14.0854700854701,0
+"201",220,"Indian Institute of Science, Bangalore","Deemed University-Government ",685,0,685,47,0,47,14.5744680851064,14.5744680851064
+"202",222,"Jagadguru Sri Shivarathreeswara University, Mysore","Deemed University-Private ",140,0,140,15,0,15,9.33333333333333,9.33333333333333
+"203",223,"Jain university,Bangalore","Deemed University-Private ",98,0,98,13,5,18,5.44444444444444,7.53846153846154
+"204",223,"Jain university,Bangalore","Deemed University-Private ",1284,0,1284,25,0,25,51.36,51.36
+"205",224,"Jawaharlal Nehru Centre for Advanced Scientific Research, Banaglore","Deemed University-Government ",1003,0,1003,46,9,55,18.2363636363636,21.804347826087
+"206",225,"K.L.E. Academy of Higher Education and Research, Belgaum","Deemed University-Private ",1323,51,1374,44,9,53,25.9245283018868,30.0681818181818
+"207",226,"Kannada University, Hampi, Kamalapura","State Public University ",503,0,503,19,7,26,19.3461538461538,26.4736842105263
+"208",227,"Karnataka State Law University, Hubli","State Public University ",1027,40,1067,42,0,42,25.4047619047619,24.452380952381
+"209",227,"Karnataka State Law University, Hubli","State Public University ",238,0,238,16,0,16,14.875,14.875
+"210",228,"Karnataka State Open University, Mysore","State Open University ",0,67,67,10,0,10,6.7,0
+"211",229,"Karnataka State Women University, Bijapur","State Public University ",0,210,210,10,0,10,21,0
+"212",230,"Karnataka University, Dharwad","State Public University ",0,56,56,6,0,6,9.33333333333333,0
+"213",232,"Kuvempu University, Shankaraghatta, Shimoga","State Public University ",10,0,10,14,0,14,0.714285714285714,0.714285714285714
+"214",232,"Kuvempu University, Shankaraghatta, Shimoga","State Public University ",1044,0,1044,70,0,70,14.9142857142857,14.9142857142857
+"215",233,"Mangalore University, Mangalore","State Public University ",0,196,196,4,0,4,49,0
+"216",233,"Mangalore University, Mangalore","State Public University ",7,0,7,7,0,7,1,1
+"217",234,"Manipal Academy of Higher Education, Manipal","Deemed University-Private ",0,102,102,6,0,6,17,0
+"218",234,"Manipal Academy of Higher Education, Manipal","Deemed University-Private ",0,485,485,30,12,42,11.547619047619,0
+"219",235,"Mysore University, Mysore","State Public University ",0,106,106,23,1,24,4.41666666666667,0
+"220",235,"Mysore University, Mysore","State Public University ",0,175,175,8,0,8,21.875,0
+"221",237,"National Institute of Technology, Karnataka","Institute of National Importance ",2241,0,2241,65,50,115,19.4869565217391,34.4769230769231
+"222",238,"National Law School of India University, Bangalore","State Public University ",532,0,532,44,0,44,12.0909090909091,12.0909090909091
+"223",239,"NITTE Unversity, Mangalore","Deemed University-Private ",744,3,747,65,0,65,11.4923076923077,11.4461538461538
+"224",240,"Rajiv Gandhi University of Health Sciences, Bangalore","State Public University ",251,0,251,7,0,7,35.8571428571429,35.8571428571429
+"225",241,"Sri Devraj Urs Acaedmy of Highehr Education and Research, Kolar","Deemed University-Private ",396,119,515,36,0,36,14.3055555555556,11
+"226",242,"Sri Siddharatha Acedemy of Higher Education","Deemed University-Private ",0,157,157,16,0,16,9.8125,0
+"227",243,"Swami Vivekananda Yoga Anusandhana Samsthan, Bangalore","Deemed University-Private ",2698,0,2698,67,59,126,21.4126984126984,40.2686567164179
+"228",244,"Tumkur University, Tumkur","State Public University ",0,172,172,6,4,10,17.2,0
+"230",245,"University  of Horticultural Sciences, Bagalkot","State Public University ",413,0,413,29,5,34,12.1470588235294,14.2413793103448
+"231",246,"University  of Agricultural Sciences, Dharwad","State Public University ",65,105,170,6,0,6,28.3333333333333,10.8333333333333
+"232",246,"University  of Agricultural Sciences, Dharwad","State Public University ",210,30,240,20,0,20,12,10.5
+"233",248,"University of Agricultural Sciences, Bangalore","State Public University ",0,77,77,5,0,5,15.4,0
+"234",248,"University of Agricultural Sciences, Bangalore","State Public University ",2028,0,2028,63,36,99,20.4848484848485,32.1904761904762
+"235",249,"Vesveswaraiah Technological University, Belgaum","State Public University ",0,41,41,15,0,15,2.73333333333333,0
+"236",250,"Yenepoya University, Mangalore","Deemed University-Private ",95,54,149,9,0,9,16.5555555555556,10.5555555555556
+"237",251,"Calicut University, Thenhipalem, Malapuram","State Public University ",39,58,97,5,1,6,16.1666666666667,7.8
+"238",252,"Central Univeristy of Kerala, Kasaragod","Central University ",811,0,811,43,6,49,16.5510204081633,18.8604651162791
+"239",253,"Cochin University of Science & Technology, Kochi","State Public University ",0,31,31,8,3,11,2.81818181818182,0
+"240",255,"Indian Institute of Space Science and Technology, Thiruvananthapuram","Deemed University-Government ",1241,0,1241,32,20,52,23.8653846153846,38.78125
+"241",256,"Kannur University, Kannur","State Public University ",0,217,217,14,0,14,15.5,0
+"242",257,"Kerala Agricultural University, Thrissur","State Public University ",43,0,43,6,0,6,7.16666666666667,7.16666666666667
+"243",257,"Kerala Agricultural University, Thrissur","State Public University ",514,0,514,46,0,46,11.1739130434783,11.1739130434783
+"244",258,"Kerala Kalamandalam, Thrissur","Deemed University-Government ",1914,0,1914,147,0,147,13.0204081632653,13.0204081632653
+"245",260,"Kerala University, Thiruvananthapuram","State Public University ",0,76,76,7,0,7,10.8571428571429,0
+"246",262,"Mahatma Gandhi University, Kottayam","State Public University ",58,10,68,9,0,9,7.55555555555556,6.44444444444444
+"247",263,"National Institute of Technology, Calicut","Institute of National Importance ",0,109,109,10,0,10,10.9,0
+"248",264,"National University of Advanced Legal Studies, Kochi","State Public University ",2360,46,2406,110,0,110,21.8727272727273,21.4545454545455
+"249",265,"Shree Sankaracharya Univeristy of Sanskrit, Kalady","State Public University ",1157,0,1157,59,0,59,19.6101694915254,19.6101694915254
+"250",266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram","Institute of National Importance ",2399,40,2439,155,3,158,15.4367088607595,15.4774193548387
+"251",266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram","Institute of National Importance ",141,0,141,19,0,19,7.42105263157895,7.42105263157895
+"252",267,"Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior","Deemed University-Government ",0,113,113,5,0,5,22.6,0
+"253",268,"Awadesh Pratap Singh University, Rewa","State Public University ",1389,0,1389,32,33,65,21.3692307692308,43.40625
+"254",269,"Barkatullah University, Bhopal","State Public University ",44,144,188,24,0,24,7.83333333333333,1.83333333333333
+"255",270,"Devi Ahilya Vishwavidyalaya, Indore","State Public University ",1165,16,1181,52,32,84,14.0595238095238,22.4038461538462
+"256",271,"Dr. Harisingh Gaur  Vishwavidyalaya, Sagar","Central University ",2216,0,2216,50,16,66,33.5757575757576,44.32
+"257",272,"Indian Institute of Science Education & Research (IISER), Bhopal","Institute of National Importance ",0,4,4,4,0,4,1,0
+"258",273,"Indian Institute of Technology, Indore","Institute of National Importance ",186,10,196,19,0,19,10.3157894736842,9.78947368421053
+"259",273,"Indian Institute of Technology, Indore","Institute of National Importance ",0,12,12,4,0,4,3,0
+"260",274,"Jawaharlal Nehru Krishi Vishwavidyalaya, Jabalpur","State Public University ",70,0,70,23,0,23,3.04347826086957,3.04347826086957
+"261",275,"Jaypee University of Engeenering & Technology, Guna","State Private University ",1817,0,1817,86,0,86,21.1279069767442,21.1279069767442
+"262",276,"Jiwaji University, Gwalior","State Public University ",0,142,142,25,0,25,5.68,0
+"263",277,"Lakshmibai National Institute of Physical Education, Gwalior","Deemed University-Government ",1135,0,1135,19,21,40,28.375,59.7368421052632
+"264",278,"M.P. Bhoj (Open) University, Bhopal","State Open University ",328,51,379,28,0,28,13.5357142857143,11.7142857142857
+"265",279,"Nanaji Deshmukh Pashu Chikitsa Vigyan Vishwavidalaya, Jabalpur","State Public University ",1646,0,1646,21,39,60,27.4333333333333,78.3809523809524
+"266",280,"Maharishi  Mahesh Yogi Vedic Vishwavidyalaya, Jabalpur","State Public University ",0,211,211,8,0,8,26.375,0
+"267",281,"Maharishi Panini Sanskrit Vishwavidyalaya, Ujjain","State Public University ",1893,0,1893,83,0,83,22.8072289156627,22.8072289156627
+"268",283,"Makhanlal Chaturvedi National University of Journalism and Communication, Bhopal","State Public University ",1786,0,1786,82,0,82,21.780487804878,21.780487804878
+"269",284,"Maulana Azad National Institute of Technology, Bhopal","Institute of National Importance ",0,123,123,15,0,15,8.2,0
+"270",285,"National Law Institute University, Bhopal","State Public University ",218,62,280,21,0,21,13.3333333333333,10.3809523809524
+"271",286,"Pandhi Dwarka Prasad Mishra Indian Institute of Information Technology & Manufacturing , Jabalpur","Deemed University-Government ",140,35,175,16,0,16,10.9375,8.75
+"272",287,"Rajiv Gandhi Prodoyogiki Vishwavidyalaya, Bhopal","State Public University ",1331,0,1331,32,35,67,19.865671641791,41.59375
+"273",288,"Rajmata Vijayaraje Scindia Krishi Vishwa Vidyalaya, Gwalior","State Public University ",2929,0,2929,60,43,103,28.4368932038835,48.8166666666667
+"274",289,"Rani Durgavati Vishwavidyalaya, Jabalpur","State Public University ",1407,0,1407,125,0,125,11.256,11.256
+"275",290,"Indira Gandhi National Tribal University, Amarkantak","Central University ",106,11,117,12,0,12,9.75,8.83333333333333
+"276",291,"Vikram University, Ujjain","State Public University ",77,82,159,6,4,10,15.9,12.8333333333333
+"277",292,"Bharati Vidyapeeth, Pune","Deemed University-Private ",2474,98,2572,164,0,164,15.6829268292683,15.0853658536585
+"278",293,"Central Institute of Fisheries Education, Fishries University, Mumbai","Deemed University-Government ",150,0,150,15,0,15,10,10
+"279",295,"Datta Meghe Institute of Medical Sciences, Nagpur","Deemed University-Private ",2601,27,2628,49,23,72,36.5,53.0816326530612
+"280",296,"Deccan College Postgraduate & Research Institute, Pune","Deemed University-Private ",1318,53,1371,53,0,53,25.8679245283019,24.8679245283019
+"281",297,"Defence Institute of Advanced Technology, Girinagar, Pune","Deemed University-Government ",1025,0,1025,33,0,33,31.0606060606061,31.0606060606061
+"282",300,"Dr. Balasaheb Sawant Konkan Krishi Vidyaapeeth,(former Konkan Krishi Vidyapeeth) Ratnagiri","State Public University ",2152,0,2152,44,58,102,21.0980392156863,48.9090909090909
+"283",300,"Dr. Balasaheb Sawant Konkan Krishi Vidyaapeeth,(former Konkan Krishi Vidyapeeth) Ratnagiri","State Public University ",147,0,147,5,17,22,6.68181818181818,29.4
+"284",303,"Gokhale Institute of Politics & Economics, Pune","Deemed University-Government Aided ",77,105,182,9,0,9,20.2222222222222,8.55555555555556
+"285",304,"Homi Bhabha Natioanal Institute Knowledge Management Group, Mumbai","Deemed University-Government ",0,36,36,1,7,8,4.5,0
+"286",305,"Indian Institute of Science Education & Research (IISER), Pune,","Institute of National Importance ",934,0,934,25,7,32,29.1875,37.36
+"287",305,"Indian Institute of Science Education & Research (IISER), Pune,","Institute of National Importance ",267,0,267,24,0,24,11.125,11.125
+"288",306,"Indian Institute of Technology, Mumbai","Institute of National Importance ",0,53,53,14,0,14,3.78571428571429,0
+"289",307,"Indira Gandhi Institute of Development Research, Mumbai","Deemed University-Government ",0,481,481,16,0,16,30.0625,0
+"290",308,"Institute of Chemical Technology, Mumbai","Deemed University-Government ",1725,0,1725,97,0,97,17.7835051546392,17.7835051546392
+"291",309,"International Institute for Population Sciences, Mumbai","Deemed University-Government ",205,0,205,14,9,23,8.91304347826087,14.6428571428571
+"292",309,"International Institute for Population Sciences, Mumbai","Deemed University-Government ",2680,57,2737,56,22,78,35.0897435897436,47.8571428571429
+"294",312,"Maharashtra Animal & Fishery Sciences University, Nagpur","State Public University ",224,26,250,24,0,24,10.4166666666667,9.33333333333333
+"295",313,"Maharashtra University of Health Sciences, Nashik","State Public University ",0,68,68,8,0,8,8.5,0
+"296",314,"Mahatama Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha","Central University ",106,0,106,8,0,8,13.25,13.25
+"297",315,"Mahatma Phule Krishi Vidyapeeth, Rahuri","State Public University ",657,0,657,95,0,95,6.91578947368421,6.91578947368421
+"298",316,"Marathwada Agricultural University, Parbhani","State Public University ",0,100,100,4,3,7,14.2857142857143,0
+"299",317,"MGM Institute of Health Sciences, Navi  Mumbai","Deemed University-Private ",0,80,80,7,0,7,11.4285714285714,0
+"300",318,"Mumbai University Mumbai","State Public University ",3284,0,3284,58,55,113,29.0619469026549,56.6206896551724
+"301",319,"Narsee Monjee Institute of Management Studies, Mumbai","Deemed University-Private ",3527,192,3719,174,43,217,17.1382488479263,20.2701149425287
+"302",320,"North Maharashtra University, Jalgaon","State Public University ",2099,0,2099,172,0,172,12.203488372093,12.203488372093
+"303",321,"Padmashree Dr. D. Y. Patil Vidyapeeth, , Mumbai","Deemed University-Private ",87,10,97,10,0,10,9.7,8.7
+"304",323,"Savitribai Phule Pune University","State Public University ",454,24,478,30,0,30,15.9333333333333,15.1333333333333
+"305",327,"Solapur University, Solapur","State Public University ",0,42,42,7,0,7,6,0
+"306",328,"Swami Ramanand Teerth Marathwada University, Nanded","State Public University ",0,0,0,16,0,16,0,0
+"307",328,"Swami Ramanand Teerth Marathwada University, Nanded","State Public University ",255,0,255,25,0,25,10.2,10.2
+"308",329,"SYMBIOSIS International University, Pune","Deemed University-Private ",1050,20,1070,135,0,135,7.92592592592593,7.77777777777778
+"309",330,"Tata Institute of Fundamental Research, Mumbai","Deemed University-Government ",824,255,1079,46,74,120,8.99166666666667,17.9130434782609
+"310",331,"Tata Institute of Social Sciences, Mumbai","Deemed University-Government Aided ",92,26,118,11,0,11,10.7272727272727,8.36363636363636
+"311",332,"Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur","State Public University ",0,72,72,6,1,7,10.2857142857143,0
+"312",334,"Visvesvaraya National Institute of Technology, Nagpur","Institute of National Importance ",93,0,93,15,0,15,6.2,6.2
+"313",334,"Visvesvaraya National Institute of Technology, Nagpur","Institute of National Importance ",0,359,359,15,0,15,23.9333333333333,0
+"314",335,"Yashwant Rao Chavan Maharashtra Open University","State Open University ",1358,0,1358,105,0,105,12.9333333333333,12.9333333333333
+"315",337,"Manipur University, Imphal","Central University ",1635,0,1635,81,0,81,20.1851851851852,20.1851851851852
+"316",347,"Nagaland University","Central University ",2219,0,2219,101,33,134,16.5597014925373,21.970297029703
+"317",348,"The Global Open University Nagaland, Dimapur","State Private University ",6,18,24,4,0,4,6,1.5
+"318",349,"The Institute of Chartered Financial Analysts of India University, Dimapur","State Private University ",1403,0,1403,31,30,61,23,45.258064516129
+"319",350,"Berhampur University, Berhampur","State Public University ",3622,292,3914,212,0,212,18.4622641509434,17.0849056603774
+"320",351,"Biju Patnaik University of Technology, Rourkela","State Public University ",3627,0,3627,101,32,133,27.2706766917293,35.9108910891089
+"321",352,"Central University of Orissa, Koraput","Central University ",0,120,120,5,0,5,24,0
+"322",353,"Centurion University of Technology and Management","State Private University ",376,0,376,38,14,52,7.23076923076923,9.89473684210526
+"323",354,"Fakir Mohan University, Balasore","State Public University ",766,2,768,63,0,63,12.1904761904762,12.1587301587302
+"324",355,"Indian Institute of Technology, Bhubaneshwar","Institute of National Importance ",123,18,141,13,0,13,10.8461538461538,9.46153846153846
+"325",356,"Kalinga Institute of Industrial Technology, Bhubaneswar","Deemed University-Private ",62,0,62,14,0,14,4.42857142857143,4.42857142857143
+"326",357,"National Institute of Technology, Rourkela","Institute of National Importance ",759,0,759,13,33,46,16.5,58.3846153846154
+"327",358,"National Law University, Cuttuck","State Public University ",213,0,213,13,0,13,16.3846153846154,16.3846153846154
+"328",359,"North Orissa University, Mayurbhanj","State Public University ",74,0,74,15,0,15,4.93333333333333,4.93333333333333
+"329",359,"North Orissa University, Mayurbhanj","State Public University ",1900,59,1959,61,0,61,32.1147540983607,31.1475409836066
+"330",361,"Ravenshaw University, Cuttak","State Public University ",0,39,39,18,0,18,2.16666666666667,0
+"331",362,"Sambalpur University, Sambalpur","State Public University ",27,0,27,6,0,6,4.5,4.5
+"332",364,"Shri Jagannath Sanskrit Vishwavidyalaya, Puri","State Public University ",976,0,976,30,19,49,19.9183673469388,32.5333333333333
+"333",365,"Utkal University of Culture, Bhubaneswar","State Public University ",156,21,177,11,0,11,16.0909090909091,14.1818181818182
+"334",366,"Utkal University, Bhubaneswar","State Public University ",12,265,277,31,0,31,8.93548387096774,0.387096774193548
+"335",367,"Veer Surendra Sai University of Technology, Sambalpur","State Public University ",26,0,26,7,0,7,3.71428571428571,3.71428571428571
+"336",369,"Pondicherry Univeristy, Puducherry","Central University ",428,0,428,12,15,27,15.8518518518519,35.6666666666667
+"337",370,"Sri Balajai Vidyapeeth Mahatma Gandhi Medical College, Puducherry","Deemed University-Private ",142,8,150,9,0,9,16.6666666666667,15.7777777777778
+"338",371,"Baba Farid University of Health & Medical Sciences, Faridkot","State Public University ",801,0,801,58,0,58,13.8103448275862,13.8103448275862
+"339",372,"Central University of Punjab, Bathhinda","Central University ",1757,35,1792,70,33,103,17.3980582524272,25.1
+"340",376,"Guru Nanak Dev University, Amritsar","State Public University ",0,0,0,5,0,5,0,0
+"341",379,"Lovely Professional University, Jullunder","State Private University ",0,167,167,23,0,23,7.26086956521739,0
+"342",381,"Punjab Agricultural University, Ludhiana","State Public University ",2259,82,2341,85,44,129,18.1472868217054,26.5764705882353
+"343",382,"I K Gujral Punjab Technical University, Jalandhar","State Public University ",3252,61,3313,103,0,103,32.1650485436893,31.5728155339806
+"344",383,"Punjabi University, Patiala","State Public University ",26,64,90,12,0,12,7.5,2.16666666666667
+"345",384,"Sant Longowal Institute of Engg. & Tech., Longowal","Deemed University-Government ",0,114,114,6,0,6,19,0
+"346",385,"Thapar Institute of Engineering and Technology, Patiala","Deemed University-Private ",1427,0,1427,55,0,55,25.9454545454545,25.9454545454545
+"347",387,"Kota University, Kota","State Public University ",419,0,419,20,10,30,13.9666666666667,20.95
+"348",388,"Amity University, Jaipur,","State Private University ",41,26,67,9,1,10,6.7,4.55555555555556
+"349",389,"Banasthali Vidyapith","Deemed University-Private ",0,25,25,10,1,11,2.27272727272727,0
+"350",390,"Bhagwant University,  Ajmer","State Private University ",0,40,40,7,0,7,5.71428571428571,0
+"351",392,"Central University of Rajasthan, Jaipur","Central University ",1427,72,1499,67,0,67,22.3731343283582,21.2985074626866
+"352",393,"Dr K N Modi University, Tonk","State Private University ",0,177,177,17,0,17,10.4117647058824,0
+"353",394,"I.I.S. University, Jaipur","Deemed University-Private ",0,1310,1310,63,35,98,13.3673469387755,0
+"354",394,"I.I.S. University, Jaipur","Deemed University-Private ",0,121,121,12,0,12,10.0833333333333,0
+"355",395,"Indian Institute of Technology, Jodhpur","Institute of National Importance ",0,231,231,15,0,15,15.4,0
+"357",399,"Jai Narain Vyas University, Jodhpur","State Public University ",1492,73,1565,160,0,160,9.78125,9.325
+"359",401,"Jaipur National University, Jaipur","State Private University ",0,86,86,5,0,5,17.2,0
+"360",403,"Jodhpur National University, Jodhpur","State Private University ",1360,0,1360,139,0,139,9.7841726618705,9.7841726618705
+"361",406,"Maharaja Ganga Singh University, Bikaner","State Public University ",4026,171,4197,192,0,192,21.859375,20.96875
+"362",407,"Maharana Pratap University of Agriculture & Technology, Udaipur","State Public University ",2049,36,2085,111,0,111,18.7837837837838,18.4594594594595
+"363",409,"Mahatma Jyoti Rao Phoole University, Jaipur","State Private University ",279,73,352,15,3,18,19.5555555555556,18.6
+"364",410,"Malviya National Institute of Technology, Jaipur","Institute of National Importance ",0,186,186,16,0,16,11.625,0
+"365",412,"Mody Institute of Technology & Science, Sikar","Deemed University-Private ",0,461,461,64,0,64,7.203125,0
+"366",415,"NIMS University, Jaipur","State Private University ",0,117,117,3,3,6,19.5,0
+"367",416,"Pacific Academy of Higher Education Research University, Udaipur","State Private University ",1709,0,1709,75,0,75,22.7866666666667,22.7866666666667
+"368",417,"Rajasthan Agricultural University, Bikaner","State Public University ",3034,23,3057,211,0,211,14.4881516587678,14.3791469194313
+"369",418,"Dr Sarvepalli Radhakrishnan Rajasthan Ayurved University, Jodhpur","State Public University ",58,0,58,23,0,23,2.52173913043478,2.52173913043478
+"370",418,"Dr Sarvepalli Radhakrishnan Rajasthan Ayurved University, Jodhpur","State Public University ",53,7,60,17,0,17,3.52941176470588,3.11764705882353
+"371",420,"Rajasthan University of Health Sciences, Jaipur","State Public University ",399,0,399,16,0,16,24.9375,24.9375
+"372",420,"Rajasthan University of Health Sciences, Jaipur","State Public University ",1120,0,1120,67,0,67,16.7164179104478,16.7164179104478
+"373",421,"Rajasthan University of Veterinary and Animal Sciences, Bikaner","State Public University ",0,76,76,4,0,4,19,0
+"374",422,"Rajasthan University, Jaipur","State Public University ",0,108,108,8,0,8,13.5,0
+"375",422,"Rajasthan University, Jaipur","State Public University ",918,0,918,20,18,38,24.1578947368421,45.9
+"376",424,"Shridhar University,  Pilani","State Private University ",1437,0,1437,80,0,80,17.9625,17.9625
+"377",426,"Sir Padampat Singhania University, Udaipur","State Private University ",3628,95,3723,225,0,225,16.5466666666667,16.1244444444444
+"378",427,"Suresh Gyan Vihar Univeristy, Jaipur","State Private University ",0,110,110,7,0,7,15.7142857142857,0
+"379",428,"Vardhman Mahaveer Open University, Kota","State Open University ",1002,0,1002,26,0,26,38.5384615384615,38.5384615384615
+"380",431,"Sikkim Manipal University, Gangtok","State Private University ",0,39,39,23,0,23,1.69565217391304,0
+"381",432,"The Institute of Chartered Financial Analysts of India University, Sikkim","State Private University ",0,0,0,4,1,5,0,0
+"382",433,"Vinayaka Missions Sikkim University, Tadong","State Private University ",0,110,110,4,0,4,27.5,0
+"383",435,"Alagappa University, Alagappa Nagar, Karaikudi","State Public University ",14,27,41,23,0,23,1.78260869565217,0.608695652173913
+"384",435,"Alagappa University, Alagappa Nagar, Karaikudi","State Public University ",1053,16,1069,29,19,48,22.2708333333333,36.3103448275862
+"385",436,"Amrita Vishwa Vidyapeetham, Coimbatore","Deemed University-Private ",358,190,548,25,15,40,13.7,14.32
+"386",439,"Anna University, Chennai","State Public University ",3412,1119,4531,201,41,242,18.7231404958678,16.9751243781095
+"387",443,"Annamalai University, Annamalainagar","State Public University ",2565,200,2765,163,0,163,16.9631901840491,15.7361963190184
+"388",444,"Avinashilingam Institute for Home Science & Higher Education for Women, Coimbatore","Deemed University-Government Aided ",0,198,198,2,9,11,18,0
+"389",445,"B.S. Abdur Rahman Institute of Science & Technology","Deemed University-Private ",0,190,190,23,2,25,7.6,0
+"390",446,"Bharath Institute of Higher Education & Research","Deemed University-Private ",239,87,326,14,0,14,23.2857142857143,17.0714285714286
+"391",447,"Bharathiar University, Coimbatore","State Public University ",1343,247,1590,4,36,40,39.75,335.75
+"392",448,"Bharathidasan University, Tiruchirappalli","State Public University ",235,108,343,28,3,31,11.0645161290323,8.39285714285714
+"393",450,"Chennai Mathematical  Institue, Chennai","Deemed University-Private ",239,0,239,84,0,84,2.8452380952381,2.8452380952381
+"394",454,"Hindustan Institute of Technology and Science, Kancheepuram","Deemed University-Private ",69,0,69,19,0,19,3.63157894736842,3.63157894736842
+"395",458,"Kalasalingam Academy of Research and Higher Education, Srivilliputhrur","Deemed University-Private ",128,0,128,9,0,9,14.2222222222222,14.2222222222222
+"396",459,"Karpagam Academy of Higher Education, Coimbatore","Deemed University-Private ",44,0,44,4,1,5,8.8,11
+"397",460,"Karunya Institute of Technology and Sciences, Coimbatore","Deemed University-Private ",69,0,69,19,0,19,3.63157894736842,3.63157894736842
+"398",461,"M.G.R. Educational and Research Institute, Chennai","Deemed University-Private ",396,119,515,36,0,36,14.3055555555556,11
+"399",461,"M.G.R. Educational and Research Institute, Chennai","Deemed University-Private ",0,198,198,16,0,16,12.375,0
+"400",463,"Madurai Kamraj University, Madurai","State Public University ",74,0,74,7,0,7,10.5714285714286,10.5714285714286
+"401",464,"Manonmaniam Sundaranar University, Tirunelveli","State Public University ",50,0,50,4,0,4,12.5,12.5
+"402",465,"Meenakshri Academy of Higher Education and Research, Chennai","Deemed University-Private ",88,0,88,4,0,4,22,22
+"403",470,"Periyar University, Salem","State Public University ",149,0,149,8,5,13,11.4615384615385,18.625
+"404",471,"Ponnaiyah Ramajayam Institute of Science & Technology, Thanjavur","Deemed University-Private ",1729,125,1854,35,22,57,32.5263157894737,49.4
+"405",472,"Rajiv Gandhi National Instiute of Youth Development, Sriperumbudur","Institute of National Importance ",143,0,143,4,3,7,20.4285714285714,35.75
+"406",473,"S.R.M. Institute of Science & Technology, Chennai","Deemed University-Private ",905,0,905,9,1,10,90.5,100.555555555556
+"407",475,"Saveetha University, Chennai","Deemed University-Private ",108,0,108,8,0,8,13.5,13.5
+"408",478,"Sri Ramachandra Medical College and Research Institute, Chennai","Deemed University-Private ",1538,163,1701,23,0,23,73.9565217391304,66.8695652173913
+"409",480,"Tamil Nadu Dr. Ambedkar Law University, Chennai","State Public University ",828,64,892,38,0,38,23.4736842105263,21.7894736842105
+"410",481,"Tamil Nadu Dr. M.G.R. Medical University , Chennai","State Public University ",50,0,50,1,6,7,7.14285714285714,50
+"411",482,"Tamil Nadu Open University, Chennai","State Open University ",0,129,129,20,0,20,6.45,0
+"412",484,"Tamil Univesity, Thanjavur","State Public University ",100,0,100,3,8,11,9.09090909090909,33.3333333333333
+"413",484,"Tamil Univesity, Thanjavur","State Public University ",1369,359,1728,21,22,43,40.1860465116279,65.1904761904762
+"414",485,"Tamilnadu Agricultural University, Coimbatore","State Public University ",0,655,655,67,0,67,9.77611940298507,0
+"415",485,"Tamilnadu Agricultural University, Coimbatore","State Public University ",218,3,221,15,0,15,14.7333333333333,14.5333333333333
+"416",488,"Thiruvalluvar Univeristy, Vellore","State Public University ",452,0,452,8,7,15,30.1333333333333,56.5
+"418",491,"Vels Institute of Science, Technology and Advanced Studies, Chennai","Deemed University-Private ",3288,0,3288,191,0,191,17.2146596858639,17.2146596858639
+"419",491,"Vels Institute of Science, Technology and Advanced Studies, Chennai","Deemed University-Private ",155,0,155,27,19,46,3.3695652173913,5.74074074074074
+"420",493,"National Institute of Technology, Agartala","Institute of National Importance ",768,136,904,289,146,435,2.07816091954023,2.65743944636678
+"421",494,"The Institute of Chartered Financial Analysts of India University, Agartala","State Private University ",201,22,223,8,17,25,8.92,25.125
+"422",494,"The Institute of Chartered Financial Analysts of India University, Agartala","State Private University ",675,0,675,31,0,31,21.7741935483871,21.7741935483871
+"423",495,"Tripura University, Agartala","Central University ",708,0,708,4,5,9,78.6666666666667,177
+"424",496,"Aligarh Muslim University, Aligarh","Central University ",108,0,108,2,4,6,18,54
+"425",498,"Babasheb Bhimrao Ambedkar University, Lucknow","Central University ",1481,0,1481,15,3,18,82.2777777777778,98.7333333333333
+"426",501,"Bhatkhande Music Institute, Lucknow","Deemed University-Government Aided ",81,0,81,2,5,7,11.5714285714286,40.5
+"427",502,"Bundelkhand University,  Jhansi","State Public University ",1154,311,1465,14,4,18,81.3888888888889,82.4285714285714
+"428",505,"Chatrapati Sahuji Maharaj Kanpur University, Kanpur","State Public University ",1479,0,1479,79,0,79,18.7215189873418,18.7215189873418
+"429",505,"Chatrapati Sahuji Maharaj Kanpur University, Kanpur","State Public University ",327,0,327,14,0,14,23.3571428571429,23.3571428571429
+"430",506,"Choudhary Charan Singh University, Meerut","State Public University ",1609,0,1609,108,0,108,14.8981481481481,14.8981481481481
+"431",506,"Choudhary Charan Singh University, Meerut","State Public University ",1447,0,1447,15,4,19,76.1578947368421,96.4666666666667
+"432",507,"Dayalbagh Educational Institute, Agra","Deemed University-Government Aided ",427,0,427,6,18,24,17.7916666666667,71.1666666666667
+"433",509,"Dr. B. R. Ambedkar University, Agra","State Public University ",496,0,496,54,0,54,9.18518518518519,9.18518518518519
+"434",509,"Dr. B. R. Ambedkar University, Agra","State Public University ",530,0,530,8,11,19,27.8947368421053,66.25
+"435",510,"Dr. Ram Manohar Lohia  Awadh University, Faizabad","State Public University ",976,0,976,10,8,18,54.2222222222222,97.6
+"436",511,"Dr. Ram Manohar Lohiya National Law University, Lucknow","State Public University ",49,0,49,2,5,7,7,24.5
+"437",512,"UTTAR PRADESH VIKLANG UDDHAR DR SHAKUNTALA MISRA UNIVERSITY","State Public University ",1375,99,1474,29,0,29,50.8275862068966,47.4137931034483
+"438",513,"G.L.A University, Mathura","State Private University ",561,63,624,12,2,14,44.5714285714286,46.75
+"439",514,"Gautam Buddha University, Greater Noida, Gautam Budh Nagar","State Public University ",631,0,631,42,0,42,15.0238095238095,15.0238095238095
+"440",515,"IFTM University, Moradabad","State Private University ",1129,0,1129,70,0,70,16.1285714285714,16.1285714285714
+"441",515,"IFTM University, Moradabad","State Private University ",878,0,878,10,1,11,79.8181818181818,87.8
+"442",516,"Indian Institute of Information Technology, Allahabad","Deemed University-Government ",746,0,746,100,2,102,7.31372549019608,7.46
+"443",517,"Indian Institute of Technology, Kanpur","Institute of National Importance ",235,0,235,3,2,5,47,78.3333333333333
+"444",517,"Indian Institute of Technology, Kanpur","Institute of National Importance ",967,0,967,26,20,46,21.0217391304348,37.1923076923077
+"445",518,"Indian Veterinary Research Institute, Izatnagar","Deemed University-Government ",1708,129,1837,8,23,31,59.258064516129,213.5
+"446",519,"Integral University, Lucknow","State Private University ",50,0,50,5,1,6,8.33333333333333,10
+"447",519,"Integral University, Lucknow","State Private University ",1766,0,1766,159,0,159,11.1069182389937,11.1069182389937
+"448",520,"Invertis University, Bareily","State Private University ",540,0,540,19,4,23,23.4782608695652,28.4210526315789
+"449",520,"Invertis University, Bareily","State Private University ",644,99,743,8,3,11,67.5454545454545,80.5
+"450",521,"Jagadguru Rambhadracharya Handicapped University","State Private University ",1500,453,1953,17,5,22,88.7727272727273,88.2352941176471
+"451",521,"Jagadguru Rambhadracharya Handicapped University","State Private University ",489,0,489,36,0,36,13.5833333333333,13.5833333333333
+"452",522,"Jaypee Institute of Information Technology, Noida","Deemed University-Private ",475,0,475,28,0,28,16.9642857142857,16.9642857142857
+"453",522,"Jaypee Institute of Information Technology, Noida","Deemed University-Private ",231,0,231,2,7,9,25.6666666666667,115.5
+"454",523,"KING GEORGE MEDICAL UNIVERSITY","State Public University ",408,0,408,23,1,24,17,17.7391304347826
+"455",523,"KING GEORGE MEDICAL UNIVERSITY","State Public University ",292,0,292,18,2,20,14.6,16.2222222222222
+"456",524,"Lucknow University, Lucknow","State Public University ",1465,0,1465,43,15,58,25.2586206896552,34.0697674418605
+"457",525,"Mahatama Jyotiba Phule Rohikhand University, Bareilly","State Public University ",746,0,746,17,2,19,39.2631578947368,43.8823529411765
+"458",527,"Mahatma Gandhi Kashi Vidyapeeth, Varanasi","State Public University ",469,0,469,14,14,28,16.75,33.5
+"459",528,"Mangalayatan University, Aligarh","State Private University ",177,0,177,4,2,6,29.5,44.25
+"460",528,"Mangalayatan University, Aligarh","State Private University ",540,0,540,20,9,29,18.6206896551724,27
+"461",529,"Mohammad Ali Jauhar University, Rampur","State Private University ",1419,0,1419,19,0,19,74.6842105263158,74.6842105263158
+"462",529,"Mohammad Ali Jauhar University, Rampur","State Private University ",328,0,328,18,0,18,18.2222222222222,18.2222222222222
+"463",530,"Motilal Nehru National Institute of Technology, Allahabad","Institute of National Importance ",230,0,230,16,0,16,14.375,14.375
+"464",530,"Motilal Nehru National Institute of Technology, Allahabad","Institute of National Importance ",429,0,429,19,11,30,14.3,22.5789473684211
+"465",531,"Narendra Deo University of Agriculture & Technology, Faizabad","State Public University ",1004,363,1367,28,3,31,44.0967741935484,35.8571428571429
+"467",533,"Noida International University","State Private University ",172,0,172,6,7,13,13.2307692307692,28.6666666666667
+"468",534,"UP Pandit Deen Dayal Upadhyaya Veterinary University & Gau-Anusandhan Sansthan, Mathura","State Public University ",2489,396,2885,23,10,33,87.4242424242424,108.217391304348
+"469",534,"UP Pandit Deen Dayal Upadhyaya Veterinary University & Gau-Anusandhan Sansthan, Mathura","State Public University ",211,0,211,9,0,9,23.4444444444444,23.4444444444444
+"470",535,"Rajiv Gandhi Institute of Petroleum Technology, Rae Bareli","Institute of National Importance ",1197,0,1197,23,0,23,52.0434782608696,52.0434782608696
+"471",535,"Rajiv Gandhi Institute of Petroleum Technology, Rae Bareli","Institute of National Importance ",1627,0,1627,39,17,56,29.0535714285714,41.7179487179487
+"472",536,"Sam Higginbottom Institute of Agriculture, Technology & Sciences, Allahabad","Deemed University-Government Aided ",534,0,534,21,0,21,25.4285714285714,25.4285714285714
+"473",537,"Sampurnanand Sanskrit Vishwavidyalaya,  Varanasi","State Public University ",252,0,252,20,9,29,8.68965517241379,12.6
+"474",537,"Sampurnanand Sanskrit Vishwavidyalaya,  Varanasi","State Public University ",491,0,491,13,0,13,37.7692307692308,37.7692307692308
+"475",539,"Santosh University, Ghaziabad","Deemed University-Private ",1384,0,1384,4,14,18,76.8888888888889,346
+"476",539,"Santosh University, Ghaziabad","Deemed University-Private ",684,0,684,26,5,31,22.0645161290323,26.3076923076923
+"477",540,"Sardar Vallabh Bhai Patel University of Agriculture & Technology, Meerut","State Public University ",641,0,641,33,0,33,19.4242424242424,19.4242424242424
+"478",541,"Sharda University, Gautam Budh Nagar","State Private University ",278,0,278,26,0,26,10.6923076923077,10.6923076923077
+"479",541,"Sharda University, Gautam Budh Nagar","State Private University ",2179,0,2179,18,6,24,90.7916666666667,121.055555555556
+"480",542,"Shobit Institute of Engineering & Technology, Meerut","Deemed University-Private ",330,0,330,18,0,18,18.3333333333333,18.3333333333333
+"481",543,"Swami Vivekananda Subharti University, Meerut","State Private University ",493,0,493,20,3,23,21.4347826086957,24.65
+"482",543,"Swami Vivekananda Subharti University, Meerut","State Private University ",613,0,613,6,1,7,87.5714285714286,102.166666666667
+"483",544,"Teerthanker Mahaveer University, Moradabad","State Private University ",188,0,188,5,0,5,37.6,37.6
+"484",547,"KHWAJA MOINUDDIN CHISHTI URDU ARABI FARSI UNIVERSITY","State Public University ",330,0,330,18,7,25,13.2,18.3333333333333
+"485",548,"University of Allahabad, Allahabad","Central University ",537,0,537,17,3,20,26.85,31.5882352941176
+"486",549,"Uttar Pradesh Technical University, Lucknow","State Public University ",231,0,231,24,0,24,9.625,9.625
+"487",552,"Doon University, Dehradun","State Public University ",714,0,714,31,2,33,21.6363636363636,23.0322580645161
+"488",553,"Forest Research Institute, Dehradun","Deemed University-Government ",1357,0,1357,36,23,59,23,37.6944444444444
+"489",554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar","State Public University ",1569,0,1569,25,16,41,38.2682926829268,62.76
+"490",554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar","State Public University ",2133,255,2388,26,2,28,85.2857142857143,82.0384615384615
+"491",555,"Graphic Era University, Dehradun","Deemed University-Private ",87,0,87,2,3,5,17.4,43.5
+"492",555,"Graphic Era University, Dehradun","Deemed University-Private ",1236,0,1236,29,21,50,24.72,42.6206896551724
+"493",556,"Gurukul Kangri Vishwavidyalaya, Haridwar","Deemed University-Government Aided ",499,0,499,23,2,25,19.96,21.695652173913
+"494",556,"Gurukul Kangri Vishwavidyalaya, Haridwar","Deemed University-Government Aided ",1923,288,2211,22,20,42,52.6428571428571,87.4090909090909
+"495",557,"Hemwati Nandan Bahuguna Garhwal Univeristy, Srinagar, Garhwal","Central University ",479,0,479,32,13,45,10.6444444444444,14.96875
+"496",557,"Hemwati Nandan Bahuguna Garhwal Univeristy, Srinagar, Garhwal","Central University ",1190,0,1190,26,12,38,31.3157894736842,45.7692307692308
+"497",559,"Himgiri Zee University, Dehradun","State Private University ",229,0,229,5,1,6,38.1666666666667,45.8
+"498",559,"Himgiri Zee University, Dehradun","State Private University ",1507,0,1507,38,20,58,25.9827586206897,39.6578947368421
+"499",560,"Indian Institute of Technology, Roorkee","Institute of National Importance ",724,0,724,40,4,44,16.4545454545455,18.1
+"500",560,"Indian Institute of Technology, Roorkee","Institute of National Importance ",840,50,890,24,0,24,37.0833333333333,35
+"501",561,"Institute of Chatertered Financial Analysts of India, Dehradun","State Private University ",383,0,383,53,0,53,7.22641509433962,7.22641509433962
+"502",561,"Institute of Chatertered Financial Analysts of India, Dehradun","State Private University ",1706,0,1706,37,3,40,42.65,46.1081081081081
+"503",562,"Kumaun University, Nainital","State Public University ",521,0,521,13,3,16,32.5625,40.0769230769231
+"504",562,"Kumaun University, Nainital","State Public University ",1712,0,1712,50,0,50,34.24,34.24
+"505",564,"University of Petroleum and Energy Studies, Dehradun","State Private University ",1801,308,2109,25,14,39,54.0769230769231,72.04
+"506",564,"University of Petroleum and Energy Studies, Dehradun","State Private University ",47,0,47,1,6,7,6.71428571428571,47
+"507",565,"Uttaranchal Sanskrit University, Hardwar","State Public University ",189,0,189,23,0,23,8.21739130434783,8.21739130434783
+"508",565,"Uttaranchal Sanskrit University, Hardwar","State Public University ",590,0,590,13,1,14,42.1428571428571,45.3846153846154
+"509",566,"Uttrakhand Technical University, Dehradun","State Public University ",1654,0,1654,50,27,77,21.4805194805195,33.08
+"510",566,"Uttrakhand Technical University, Dehradun","State Public University ",49,0,49,9,0,9,5.44444444444444,5.44444444444444
+"511",567,"Aliah University, Kolkata","State Public University ",240,0,240,7,3,10,24,34.2857142857143
+"512",569,"Burdwan University, Burdwan","State Public University ",2061,0,2061,32,29,61,33.7868852459016,64.40625
+"513",570,"Calcutta University, Kolkata","State Public University ",0,12,12,5,0,5,2.4,0
+"514",570,"Calcutta University, Kolkata","State Public University ",297,0,297,9,11,20,14.85,33
+"515",572,"Indian Institute of Science Education & Research (IISER), Kolkata,","Institute of National Importance ",162,0,162,6,2,8,20.25,27
+"516",573,"Indian Institute of Technology, Kaharagpur","Institute of National Importance ",159,0,159,6,4,10,15.9,26.5
+"517",574,"Indian Statistical Institute, Kolkata","Institute of National Importance ",0,18,18,4,0,4,4.5,0
+"518",574,"Indian Statistical Institute, Kolkata","Institute of National Importance ",210,0,210,6,5,11,19.0909090909091,35
+"519",575,"Jadavpur University, Kolkata","State Public University ",2363,130,2493,13,1,14,178.071428571429,181.769230769231
+"520",575,"Jadavpur University, Kolkata","State Public University ",635,0,635,42,0,42,15.1190476190476,15.1190476190476
+"521",578,"Netaji Subhash Open University, Kolkata","State Open University ",0,98,98,28,0,28,3.5,0
+"522",579,"North Bengal University, Darjeeling","State Public University ",989,51,1040,23,22,45,23.1111111111111,43
+"523",580,"Presidency University","State Public University ",1292,0,1292,34,0,34,38,38
+"524",582,"Ramakrishna Mission Vivekananda Educational  and Research Institute, Howrah","Deemed University-Private ",606,169,775,14,10,24,32.2916666666667,43.2857142857143
+"525",584,"INDIAN INSTITUTE OF ENGINEERING SCIENCE AND TECHNOLOGY, SHIBPUR","Institute of National Importance ",1039,0,1039,14,48,62,16.758064516129,74.2142857142857
+"526",585,"The West Bengal National University of Juridicial Sciences, Kolkata","State Public University ",1408,0,1408,26,0,26,54.1538461538462,54.1538461538462
+"527",586,"The West Bengal University of Health Sciences, Kolkata","State Public University ",89,0,89,13,0,13,6.84615384615385,6.84615384615385
+"528",587,"Uttar Banga Krishi Vishwavidyalaya, Cooch Behar","State Public University ",768,0,768,27,11,38,20.2105263157895,28.4444444444444
+"529",588,"Vidya Sagar University, Midnapore","State Public University ",650,0,650,30,0,30,21.6666666666667,21.6666666666667
+"530",590,"West Bengal State University, Kolkata","State Public University ",258,0,258,45,0,45,5.73333333333333,5.73333333333333
+"531",591,"West Bengal University of Animal and Fishery Sciences, Kolkata","State Public University ",1606,0,1606,42,27,69,23.2753623188406,38.2380952380952
+"532",592,"Maulana Abul Kalam Azad University of Technology, West Bengal","State Public University ",326,0,326,10,7,17,19.1764705882353,32.6
+"533",593,"Gujarat Forensic Sciences University","State Public University ",49,0,49,5,2,7,7,9.8
+"534",595,"Rakshashakti University, Gujarat","State Public University ",1432,0,1432,37,16,53,27.0188679245283,38.7027027027027
+"535",597,"Bahra University, Solan","State Private University ",1456,182,1638,135,0,135,12.1333333333333,10.7851851851852
+"536",598,"Himachal Pradesh Technical University, Hamirpur","State Public University ",245,0,245,8,1,9,27.2222222222222,30.625
+"537",598,"Himachal Pradesh Technical University, Hamirpur","State Public University ",1252,0,1252,23,7,30,41.7333333333333,54.4347826086956
+"538",599,"Sri Sai University, Palampur","State Private University ",38,9,47,5,5,10,4.7,7.6
+"539",599,"Sri Sai University, Palampur","State Private University ",436,0,436,43,0,43,10.1395348837209,10.1395348837209
+"540",600,"National University of Study & Research in Law, Ranchi","State Public University ",100,0,100,13,3,16,6.25,7.69230769230769
+"541",600,"National University of Study & Research in Law, Ranchi","State Public University ",561,0,561,33,0,33,17,17
+"542",603,"Vijayanagara Sri Krishnadevaraya University, Bellary","State Public University ",927,0,927,62,0,62,14.9516129032258,14.9516129032258
+"543",603,"Vijayanagara Sri Krishnadevaraya University, Bellary","State Public University ",716,0,716,1,5,6,119.333333333333,716
+"544",604,"Amity University, Gwalior","State Private University ",564,0,564,15,46,61,9.24590163934426,37.6
+"545",605,"University of Technology & Management, Shillong","State Private University ",625,0,625,4,0,4,156.25,156.25
+"546",613,"National Institute of Technology Manipur","Institute of National Importance ",497,0,497,41,0,41,12.1219512195122,12.1219512195122
+"547",613,"National Institute of Technology Manipur","Institute of National Importance ",103,0,103,2,3,5,20.6,51.5
+"548",614,"National Institute of Technology Sikkim","Institute of National Importance ",1807,0,1807,55,27,82,22.0365853658537,32.8545454545455
+"549",614,"National Institute of Technology Sikkim","Institute of National Importance ",316,0,316,7,1,8,39.5,45.1428571428571
+"550",616,"National Institute of Technology Uttarakhand","Institute of National Importance ",2541,326,2867,39,3,42,68.2619047619048,65.1538461538462
+"551",616,"National Institute of Technology Uttarakhand","Institute of National Importance ",1106,0,1106,75,0,75,14.7466666666667,14.7466666666667
+"552",618,"National Institute of Technology Nagaland","Institute of National Importance ",2253,0,2253,126,0,126,17.8809523809524,17.8809523809524
+"553",618,"National Institute of Technology Nagaland","Institute of National Importance ",194,0,194,5,2,7,27.7142857142857,38.8
+"554",619,"National Institute of Technology Meghalaya","Institute of National Importance ",520,0,520,25,0,25,20.8,20.8
+"555",620,"National Institute of Technology Goa","Institute of National Importance ",49,0,49,4,0,4,12.25,12.25
+"556",620,"National Institute of Technology Goa","Institute of National Importance ",1914,0,1914,75,0,75,25.52,25.52
+"557",621,"National Institute of Technology Puducherry","Institute of National Importance ",169,0,169,4,2,6,28.1666666666667,42.25
+"558",622,"National Institute of Technology Delhi","Institute of National Importance ",60,0,60,4,0,4,15,15
+"559",624,"Karnataka State Dr. Gangubai Hangal Music And Performing Arts University","State Public University ",2083,0,2083,28,0,28,74.3928571428571,74.3928571428571
+"560",624,"Karnataka State Dr. Gangubai Hangal Music And Performing Arts University","State Public University ",538,0,538,18,0,18,29.8888888888889,29.8888888888889
+"561",625,"Karnataka Sanskrit University","State Public University ",50,0,50,7,0,7,7.14285714285714,7.14285714285714
+"562",628,"William Carey University, Shillong","State Private University ",831,0,831,49,0,49,16.9591836734694,16.9591836734694
+"563",629,"Raja Mansingh  Tomar Music & Arts University, Gwalior","State Public University ",197,0,197,13,16,29,6.79310344827586,15.1538461538462
+"564",629,"Raja Mansingh  Tomar Music & Arts University, Gwalior","State Public University ",572,0,572,40,0,40,14.3,14.3
+"565",630,"KERALA UNIVERSITY OF HEALTH AND ALLIED SCIENCES","State Public University ",1920,0,1920,126,0,126,15.2380952380952,15.2380952380952
+"566",631,"CENTRAL UNIVERSITY OF JAMMU","Central University ",479,0,479,18,4,22,21.7727272727273,26.6111111111111
+"567",633,"ITM UNIVERSITY","State Private University ",280,0,280,26,0,26,10.7692307692308,10.7692307692308
+"568",635,"ICFAI UNIVERSITY","State Private University ",1026,252,1278,17,2,19,67.2631578947368,60.3529411764706
+"569",636,"BILASPUR VISHWAVIDYALAYA","State Public University ",221,0,221,6,2,8,27.625,36.8333333333333
+"570",638,"GRAPHIC ERA HILL UNIVERSITY","State Private University ",1509,0,1509,60,0,60,25.15,25.15
+"571",638,"GRAPHIC ERA HILL UNIVERSITY","State Private University ",99,0,99,3,5,8,12.375,33
+"572",639,"UNIVERSITY OF SCIENCE AND TECHNOLOGY","State Private University ",1168,0,1168,33,0,33,35.3939393939394,35.3939393939394
+"573",642,"SHIV NADAR UNIVERSITY","State Private University ",538,0,538,29,11,40,13.45,18.551724137931
+"574",642,"SHIV NADAR UNIVERSITY","State Private University ",266,0,266,21,3,24,11.0833333333333,12.6666666666667
+"575",645,"GLOCAL UNIVERSITY","State Private University ",206,0,206,1,4,5,41.2,206
+"576",647,"R K University, Rajkot","State Private University ",512,0,512,10,3,13,39.3846153846154,51.2
+"577",648,"ITM UNIVERSITY, GWALIOR","State Private University ",1454,0,1454,6,1,7,207.714285714286,242.333333333333
+"578",648,"ITM UNIVERSITY, GWALIOR","State Private University ",950,0,950,14,33,47,20.2127659574468,67.8571428571429
+"579",649,"SRI SRI UNIVERSITY","State Private University ",2260,638,2898,34,3,37,78.3243243243243,66.4705882352941
+"580",650,"AKS UNIVERSITY, SATNA","State Private University ",185,0,185,13,0,13,14.2307692307692,14.2307692307692
+"581",651,"ATAL BIHARI VAJPAYEE HINDI VISHWAVIDYALAYA","State Public University ",430,0,430,9,2,11,39.0909090909091,47.7777777777778
+"582",653,"GURU KASHI UNIVERSITY","State Private University ",1179,0,1179,10,12,22,53.5909090909091,117.9
+"583",654,"UTTARAKHAND UNIVERSITY OF HORTICULTURE AND FORESTRY, BHARSAR","State Public University ",835,0,835,11,11,22,37.9545454545455,75.9090909090909
+"584",656,"AISECT UNIVERSITY","State Private University ",402,0,402,6,7,13,30.9230769230769,67
+"585",657,"JK LAKSHMIPAT UNIVERSITY","State Private University ",232,0,232,17,2,19,12.2105263157895,13.6470588235294
+"586",657,"JK LAKSHMIPAT UNIVERSITY","State Private University ",2411,0,2411,32,12,44,54.7954545454545,75.34375
+"587",659,"KARNATAKA JANAPADA VISHWAVIDYALAYA, GOTAGODI","State Public University ",48,0,48,7,0,7,6.85714285714286,6.85714285714286
+"588",659,"KARNATAKA JANAPADA VISHWAVIDYALAYA, GOTAGODI","State Public University ",226,0,226,59,0,59,3.83050847457627,3.83050847457627
+"589",661,"SWAMI VIVEKANANDA UNIVERSITY","State Private University ",1462,156,1618,11,5,16,101.125,132.909090909091
+"590",662,"ORIENTAL UNIVERSITY","State Private University ",478,0,478,18,28,46,10.3913043478261,26.5555555555556
+"591",663,"INDUS UNIVERSITY","State Private University ",650,0,650,7,2,9,72.2222222222222,92.8571428571429
+"592",664,"INDIAN INSTITUTE OF TEACHER EDUCATION, GANDHINAGAR","State Public University ",293,0,293,7,5,12,24.4166666666667,41.8571428571429
+"593",664,"INDIAN INSTITUTE OF TEACHER EDUCATION, GANDHINAGAR","State Public University ",129,0,129,41,0,41,3.14634146341463,3.14634146341463
+"594",665,"TAMIL NADU FISHERIES UNIVERSITY","State Public University ",104,0,104,1,8,9,11.5555555555556,104
+"595",665,"TAMIL NADU FISHERIES UNIVERSITY","State Public University ",1203,0,1203,88,0,88,13.6704545454545,13.6704545454545
+"596",666,"BABA MASTNATH UNIVERSITY","State Private University ",1238,95,1333,39,2,41,32.5121951219512,31.7435897435897
+"597",669,"SRIMANTA SANKARADEVA UNIVERSITY OF HEALTH SCIENCES, GUWAHATI","State Public University ",2811,0,2811,13,139,152,18.4934210526316,216.230769230769
+"598",669,"SRIMANTA SANKARADEVA UNIVERSITY OF HEALTH SCIENCES, GUWAHATI","State Public University ",361,0,361,9,0,9,40.1111111111111,40.1111111111111
+"599",670,"SWARNIM GUJARAT SPORTS UNIVERSITY","State Public University ",524,0,524,32,0,32,16.375,16.375
+"600",671,"MAHARAJA AGRASEN UNIVERSITY","State Private University ",2013,0,2013,152,0,152,13.2434210526316,13.2434210526316
+"601",673,"ASSAM SCIENCE AND TECHNOLOGY UNIVERSITY","State Public University ",304,25,329,9,3,12,27.4166666666667,33.7777777777778
+"602",674,"BODOLAND UNIVERSITY","State Public University ",1229,67,1296,1,7,8,162,1229
+"603",675,"COTTON COLLEGE STATE UNIVERSITY","State Public University ",273,0,273,22,10,32,8.53125,12.4090909090909
+"604",677,"NATIONAL LAW UNIVERSITY AND JUDICIAL ACADEMY","State Public University ",679,0,679,71,0,71,9.56338028169014,9.56338028169014
+"605",678,"HARIDEV JOSHI UNIVERSITY OF JOURNALISM AND MASS COMMUNICATION","State Public University ",313,0,313,9,0,9,34.7777777777778,34.7777777777778
+"606",679,"SARDAR PATEL UNIVERSITY OF POLICE, SECURITY AND CRIMINAL JUSTICE","State Public University ",49,0,49,6,1,7,7,8.16666666666667
+"607",680,"TAMIL NADU NATIONAL LAW SCHOOL","State Public University ",346,0,346,18,24,42,8.23809523809524,19.2222222222222
+"608",681,"UTTARAKHAND AYURVED UNIVERSITY","State Public University ",1976,137,2113,21,4,25,84.52,94.0952380952381
+"609",681,"UTTARAKHAND AYURVED UNIVERSITY","State Public University ",584,0,584,29,3,32,18.25,20.1379310344828
+"610",683,"ASSAM DOWN TOWN UNIVERSITY","State Private University ",372,0,372,16,20,36,10.3333333333333,23.25
+"611",683,"ASSAM DOWN TOWN UNIVERSITY","State Private University ",540,0,540,16,0,16,33.75,33.75
+"612",685,"INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN","State Public University ",630,37,667,2,0,2,333.5,315
+"613",687,"ALL INDIA INSTITUTE OF MEDICAL SCIENCES, BHOPAL","Institute of National Importance ",1037,0,1037,10,23,33,31.4242424242424,103.7
+"614",688,"ALL INDIA INSTITUTE OF MEDICAL SCIENCES, BHUBANESWAR","Institute of National Importance ",366,0,366,17,20,37,9.89189189189189,21.5294117647059
+"615",690,"ALL INDIA INSTITUTE OF MEDICAL SCIENCES, RAIPUR","Institute of National Importance ",808,223,1031,166,36,202,5.1039603960396,4.86746987951807
+"616",691,"ALL INDIA INSTITUTE OF MEDICAL SCIENCES, RISHIKESH","Institute of National Importance ",208,0,208,7,2,9,23.1111111111111,29.7142857142857
+"617",693,"SANGAM UNIVERSITY, BHILWARA","State Private University ",50,0,50,6,0,6,8.33333333333333,8.33333333333333
+"618",693,"SANGAM UNIVERSITY, BHILWARA","State Private University ",63,0,63,2,8,10,6.3,31.5
+"619",694,"CAREER POINT UNIVERSITY, HAMIRPUR","State Private University ",307,0,307,9,0,9,34.1111111111111,34.1111111111111
+"620",694,"CAREER POINT UNIVERSITY, HAMIRPUR","State Private University ",504,0,504,28,29,57,8.8421052631579,18
+"621",696,"IEC (INDIA EDUCATION CENTRE) UNIVERSITY","State Private University ",46,0,46,3,0,3,15.3333333333333,15.3333333333333
+"622",696,"IEC (INDIA EDUCATION CENTRE) UNIVERSITY","State Private University ",87,0,87,6,22,28,3.10714285714286,14.5
+"623",697,"APG (ALAKH PRAKASH GOYAL) SHIMLA UNIVERSITY","State Private University ",732,251,983,10,0,10,98.3,73.2
+"624",697,"APG (ALAKH PRAKASH GOYAL) SHIMLA UNIVERSITY","State Private University ",660,0,660,27,27,54,12.2222222222222,24.4444444444444
+"625",698,"MADHAV UNIVERSITY","State Private University ",343,0,343,5,1,6,57.1666666666667,68.6
+"626",699,"INDIRA GANDHI UNIVERSITY, MEERPUR","State Public University ",1604,0,1604,95,0,95,16.8842105263158,16.8842105263158
+"627",700,"K.R. MANGALAM UNIVERSITY, GURGAON","State Private University ",718,0,718,9,9,18,39.8888888888889,79.7777777777778
+"628",700,"K.R. MANGALAM UNIVERSITY, GURGAON","State Private University ",638,0,638,46,0,46,13.8695652173913,13.8695652173913
+"629",701,"INDIAN INSTITUTE OF TECHNOLOGY (BANARAS HINDU UNIVERSITY), VARANASI","Institute of National Importance ",1045,42,1087,19,4,23,47.2608695652174,55
+"630",702,"SHREE GURU GOBIND SINGH TRICENTENARY UNIVERSITY, GURGAON","State Private University ",324,0,324,4,9,13,24.9230769230769,81
+"631",703,"AGRICULTURE UNIVERSITY, JODHPUR","State Public University ",494,0,494,4,13,17,29.0588235294118,123.5
+"632",706,"KAMDHENU UNIVERSITY, GANDHINAGAR","State Public University ",727,0,727,4,16,20,36.35,181.75
+"633",708,"C.U.SHAH UNIVERSITY, SURENDRANAGAR","State Private University ",583,0,583,14,11,25,23.32,41.6428571428571
+"634",708,"C.U.SHAH UNIVERSITY, SURENDRANAGAR","State Private University ",114,0,114,3,2,5,22.8,38
+"635",710,"NALANDA UNIVERSITY","Central University ",50,0,50,6,1,7,7.14285714285714,8.33333333333333
+"636",710,"NALANDA UNIVERSITY","Central University ",708,0,708,4,0,4,177,177
+"637",711,"KALINGA UNIVERSITY, RAIPUR","State Private University ",590,0,590,7,8,15,39.3333333333333,84.2857142857143
+"638",711,"KALINGA UNIVERSITY, RAIPUR","State Private University ",1644,199,1843,28,10,38,48.5,58.7142857142857
+"639",712,"APEX PROFESSIONAL UNIVERSITY","State Private University ",231,0,231,1,10,11,21,231
+"640",713,"ACADEMY OF SCIENTIFIC & INNOVATIVE RESEARCH","Institute of National Importance ",2886,547,3433,27,2,29,118.379310344828,106.888888888889
+"641",713,"ACADEMY OF SCIENTIFIC & INNOVATIVE RESEARCH","Institute of National Importance ",605,0,605,8,7,15,40.3333333333333,75.625
+"642",714,"ITM VOCATIONAL UNIVERSITY, VADODARA","State Private University ",916,0,916,63,0,63,14.5396825396825,14.5396825396825
+"643",715,"XAVIER UNIVERSITY, BHUBANESWAR","State Private University ",50,0,50,1,6,7,7.14285714285714,50
+"644",715,"XAVIER UNIVERSITY, BHUBANESWAR","State Private University ",959,0,959,5,22,27,35.5185185185185,191.8
+"645",716,"THUNCHATH EZHUTHACHAN MALAYALAM UNIVERSITY, TIRUR","State Public University ",1719,121,1840,20,1,21,87.6190476190476,85.95
+"646",717,"SRI DEV SUMAN UTTARAKHAND UNIVERSITY, BADSHAHITHOL, TEHRI","State Public University ",138,0,138,20,0,20,6.9,6.9
+"647",718,"KAZI NAZRUL UNIVERSITY, ASANSOL","State Public University ",347,0,347,8,4,12,28.9166666666667,43.375
+"648",721,"JAGAN NATH UNIVERSITY, JHAJJAR","State Private University ",50,0,50,12,0,12,4.16666666666667,4.16666666666667
+"649",722,"SRM UNIVERSITY, SONEPAT","State Private University ",491,0,491,19,0,19,25.8421052631579,25.8421052631579
+"650",723,"CMR UNIVERSITY, BANGALORE","State Private University ",340,0,340,9,13,22,15.4545454545455,37.7777777777778
+"651",724,"M.S. RAMAIAH UNIVERSITY OF APPLIED SCIENCES, BANGALORE","State Private University ",48,0,48,3,0,3,16,16
+"652",725,"REVA UNIVERSITY, BANGALORE","State Private University ",96,0,96,1,3,4,24,96
+"653",727,"JAGRAN LAKECITY UNIVERSITY, BHOPAL","State Private University ",170,0,170,11,0,11,15.4545454545455,15.4545454545455
+"654",728,"SRI SATYA SAI UNIVERSITY OF TECHNOLOGY & MEDICAL SCIENCES, SEHORE","State Private University ",1319,0,1319,12,4,16,82.4375,109.916666666667
+"655",731,"SHOBHIT UNIVERSITY, GANGOH","State Private University ",1025,0,1025,24,7,31,33.0645161290323,42.7083333333333
+"656",733,"PES UNIVERSITY, BANGLORE","State Private University ",50,0,50,5,0,5,10,10
+"657",734,"LAKULISH YOGA UNIVERSITY, AHMEDABAD","State Private University ",1930,21,1951,22,0,22,88.6818181818182,87.7272727272727
+"658",740,"ARUNACHAL UNIVERSITY OF STUDIES","State Private University ",50,0,50,10,0,10,5,5
+"659",741,"JECRC UNIVERSITY","State Private University ",326,0,326,4,0,4,81.5,81.5
+"660",745,"THE INSTITUTE OF TRANS-DISCIPLINARY HEALTH SCIENCES AND TECHNOLOGY","State Private University ",213,0,213,16,0,16,13.3125,13.3125
+"661",746,"GEETANJALI UNIVERSITY","State Private University ",669,0,669,9,1,10,66.9,74.3333333333333
+"662",747,"CHANDIGARH UNIVERSITY","State Private University ",1508,0,1508,47,0,47,32.0851063829787,32.0851063829787
+"663",749,"MANIPAL UNIVERSITY, JAIPUR","State Private University ",934,0,934,19,1,20,46.7,49.1578947368421
+"664",750,"UTTARANCHAL UNIVERSITY, DEHRADUN","State Private University ",3306,0,3306,17,3,20,165.3,194.470588235294
+"665",751,"STATE UNIVERSITY OF PERFORMING AND VISUAL ARTS","State Public University ",1811,0,1811,21,0,21,86.2380952380952,86.2380952380952
+"666",752,"POORNIMA UNIVERSITY","State Private University ",358,0,358,11,0,11,32.5454545454545,32.5454545454545
+"667",753,"SHRI RAMSWAROOP MEMORIAL UNIVERSITY","State Private University ",64,0,64,8,0,8,8,8
+"668",754,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, SRIRANGAM","Others",408,0,408,24,0,24,17,17
+"669",755,"SARVEPALLI RADHAKRISHNAN UNIVERSITY","State Private University ",762,47,809,18,0,18,44.9444444444444,42.3333333333333
+"670",757,"AMITY UNIVERSITY, RAIPUR","State Private University ",960,0,960,20,1,21,45.7142857142857,48
+"671",758,"PACIFIC MEDICAL UNIVERSITY","State Private University ",1749,0,1749,56,14,70,24.9857142857143,31.2321428571429
+"672",759,"G S F C UNIVERSITY","State Private University ",50,0,50,6,0,6,8.33333333333333,8.33333333333333
+"673",761,"ABHILASHI UNIVERSITY","State Private University ",1478,0,1478,34,36,70,21.1142857142857,43.4705882352941
+"674",762,"JHARKHAND RAI UNIVERSITY","State Private University ",275,0,275,2,2,4,68.75,137.5
+"675",766,"THE WEST BENGAL UNIVERSITY OF TEARCHERS TRAINING, EDUCATION PLANNING AND ADMINISTRATION","State Public University ",987,269,1256,155,0,155,8.10322580645161,6.36774193548387
+"676",768,"DIAMOND HARBOUR WOMENS UNIVERSITY","State Public University ",1400,0,1400,30,2,32,43.75,46.6666666666667
+"677",770,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, SENAPATI","Others",86,0,86,15,0,15,5.73333333333333,5.73333333333333
+"678",771,"INSTITUTE OF ADVANCED RESEARCH, GANDHINAGAR","State Private University ",1807,0,1807,52,62,114,15.8508771929825,34.75
+"679",772,"BANKURA UNIVERSITY, BANKURA","State Public University ",1746,0,1746,60,0,60,29.1,29.1
+"680",772,"BANKURA UNIVERSITY, BANKURA","State Public University ",1698,0,1698,29,16,45,37.7333333333333,58.551724137931
+"681",773,"IMS UNISON UNIVERSITY","State Private University ",385,4,389,29,13,42,9.26190476190476,13.2758620689655
+"682",774,"DIT UNIVERSITY","State Private University ",1273,0,1273,26,21,47,27.0851063829787,48.9615384615385
+"683",775,"GLS UNIVERSITY","State Private University ",1290,150,1440,9,1,10,144,143.333333333333
+"684",778,"SEACOM SKILLS UNIVERSITY","State Private University ",246,25,271,9,42,51,5.31372549019608,27.3333333333333
+"685",781,"TEAM LEASE SKILLS UNIVERSITY","State Private University ",209,0,209,14,4,18,11.6111111111111,14.9285714285714
+"686",781,"TEAM LEASE SKILLS UNIVERSITY","State Private University ",939,0,939,11,0,11,85.3636363636364,85.3636363636364
+"687",782,"SHRI GOVIND GURU UNIVERSITY","State Public University ",214,0,214,7,0,7,30.5714285714286,30.5714285714286
+"688",783,"BHAKTA KAVI NARSINH MEHTA UNIVERSITY","State Public University ",458,0,458,8,0,8,57.25,57.25
+"689",784,"PROFESSOR JAYASHANKAR TELANGANA STATE AGRICULTURAL UNIVERSITY","State Public University ",1288,26,1314,11,0,11,119.454545454545,117.090909090909
+"690",785,"PANDIT DEENDAYAL UPADHYAYA SHEKHAWATI UNIVERSITY","State Public University ",140,0,140,8,26,34,4.11764705882353,17.5
+"691",786,"A P J ABDUL KALAM TECHNOLOGICAL UNIVERSITY","State Public University ",362,0,362,4,13,17,21.2941176470588,90.5
+"692",787,"COOCH BEHAR PANCHANAN BARMA UNIVERSITY","State Public University ",70,0,70,4,0,4,17.5,17.5
+"693",788,"CHAUDHARY BANSI LAL UNIVERSITY","State Public University ",2644,0,2644,63,31,94,28.1276595744681,41.968253968254
+"694",788,"CHAUDHARY BANSI LAL UNIVERSITY","State Public University ",968,0,968,19,1,20,48.4,50.9473684210526
+"695",789,"GNA UNIVERSITY","State Private University ",172,0,172,8,0,8,21.5,21.5
+"696",790,"RAI UNIVERSITY","State Private University ",621,0,621,27,0,27,23,23
+"697",790,"RAI UNIVERSITY","State Private University ",33,0,33,1,3,4,8.25,33
+"698",792,"JAYPEE UNIVERSITY, ANOOPSHAHR","State Private University ",174,0,174,8,0,8,21.75,21.75
+"699",794,"AURO UNIVERSITY OF HOSPITALITY AND MANAGEMENT","State Private University ",45,0,45,6,0,6,7.5,7.5
+"700",795,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GUWAHATI","Others",459,0,459,27,15,42,10.9285714285714,17
+"701",795,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GUWAHATI","Others",1124,35,1159,13,6,19,61,86.4615384615385
+"702",796,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, KALYANI","Others",382,0,382,22,9,31,12.3225806451613,17.3636363636364
+"703",797,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, UNA","Others",1058,139,1197,13,8,21,57,81.3846153846154
+"704",797,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, UNA","Others",918,0,918,70,33,103,8.9126213592233,13.1142857142857
+"705",798,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, VADODARA","Others",719,0,719,11,1,12,59.9166666666667,65.3636363636364
+"706",798,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, VADODARA","Others",66,0,66,5,2,7,9.42857142857143,13.2
+"707",801,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, LUCKNOW","Others",1464,0,1464,46,0,46,31.8260869565217,31.8260869565217
+"708",810,"MAHARAJA CHHATRASAL BUNDELKHAND UNIVERSITY","State Public University ",323,0,323,7,0,7,46.1428571428571,46.1428571428571
+"709",811,"MAHARAJA RANJIT SINGH STATE TECHNICAL UNIVERSITY","State Public University ",100,0,100,12,0,12,8.33333333333333,8.33333333333333
+"710",812,"MAHAPURUSHA SRIMANTA SANKARADEVA VISWAVIDYALAYA","State Private University ",712,0,712,11,1,12,59.3333333333333,64.7272727272727
+"711",813,"LNCT UNIVERSITY","State Private University ",100,0,100,16,0,16,6.25,6.25
+"712",814,"RAJ RISHI BHARTRIHARI MATSYA UNIVERSITY","State Public University ",946,25,971,37,0,37,26.2432432432432,25.5675675675676
+"713",815,"ASSAM WOMENS UNIVERSITY","State Public University ",604,0,604,19,2,21,28.7619047619048,31.7894736842105
+"714",816,"PRATAP UNIVERSITY","State Private University ",920,0,920,17,0,17,54.1176470588235,54.1176470588235
+"715",817,"GUJARAT UNIVERSITY OF TRANSPLANTATION SCIENCES","State Public University ",76,0,76,11,0,11,6.90909090909091,6.90909090909091
+"716",818,"Manav Rachna University","State Private University ",1147,0,1147,13,4,17,67.4705882352941,88.2307692307692
+"717",820,"SAI NATH UNIVERSITY","State Private University ",63,0,63,8,0,8,7.875,7.875
